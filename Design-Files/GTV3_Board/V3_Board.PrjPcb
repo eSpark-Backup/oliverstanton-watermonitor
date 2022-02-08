@@ -360,6 +360,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JOVNKXYW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for V3_Board\Design Rule Check - V3_Board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
