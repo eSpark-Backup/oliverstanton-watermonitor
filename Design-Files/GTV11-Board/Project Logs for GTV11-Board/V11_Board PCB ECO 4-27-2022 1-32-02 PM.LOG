@@ -1,0 +1,9 @@
+Added Component: Designator=LS1(YS-SBZ9032C03R16)
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "2700Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fengming"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage"; Value = "2 ~ 4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,9x3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Member To Class: ClassName=U_Connector_Section Member=Component LS1 YS-SBZ9032C03R16
