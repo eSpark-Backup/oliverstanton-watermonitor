@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=IO_C0 Pin=U5-64
+Removed Member From Class: ClassName=U_Battery_Charger_Section Member=S
+Removed Member From Class: ClassName=U_Controller_Section Member=S
+Removed Member From Class: ClassName=U_Current_Sense_Section Member=S
+Removed Member From Class: ClassName=U_Gate_Driver_Section Member=S
+Removed Member From Class: ClassName=U_Heater_Section Member=S
+Removed Member From Class: ClassName=U_Regulator_Section Member=S
+Removed Member From Class: ClassName=U_Switch_Sheet Member=S
+Removed Member From Class: ClassName=U_Temperature_Sense_Section Member=S
+Removed Member From Class: ClassName=U_Valve_Section Member=S
+Change Component Designator: OldDesignator=S NewDesignator=C2
+Change Component Designator: OldDesignator=S NewDesignator=C6
+Change Component Designator: OldDesignator=S NewDesignator=C10
+Change Component Designator: OldDesignator=S NewDesignator=C15
+Change Component Designator: OldDesignator=S NewDesignator=C18
+Change Component Designator: OldDesignator=S NewDesignator=C22
+Change Component Designator: OldDesignator=S NewDesignator=C24
+Change Component Designator: OldDesignator=S NewDesignator=C26
+Change Component Designator: OldDesignator=S NewDesignator=C27
+Change Component Designator: OldDesignator=S NewDesignator=C28
+Change Component Designator: OldDesignator=S NewDesignator=C29
+Change Component Designator: OldDesignator=S NewDesignator=C30
+Change Component Designator: OldDesignator=S NewDesignator=C33
+Change Component Designator: OldDesignator=S NewDesignator=C36
+Change Component Designator: OldDesignator=S NewDesignator=C37
+Change Component Designator: OldDesignator=S NewDesignator=C38
+Change Component Designator: OldDesignator=S NewDesignator=C39
+Change Component Designator: OldDesignator=S NewDesignator=C40
+Change Component Designator: OldDesignator=S NewDesignator=C41
+Change Component Designator: OldDesignator=S NewDesignator=C42
+Change Component Designator: OldDesignator=S NewDesignator=C44
+Change Component Designator: OldDesignator=S NewDesignator=C46
+Change Component Designator: OldDesignator=S NewDesignator=C48
+Change Component Designator: OldDesignator=S NewDesignator=C51
+Change Component Designator: OldDesignator=S NewDesignator=C52
+Change Component Designator: OldDesignator=S NewDesignator=C53
+Change Component Designator: OldDesignator=S NewDesignator=C54
+Change Component Designator: OldDesignator=S NewDesignator=C55
+Change Component Designator: OldDesignator=S NewDesignator=C57
+Change Component Designator: OldDesignator=S NewDesignator=C60
+Change Component Designator: OldDesignator=S NewDesignator=C62
+Change Component Designator: OldDesignator=S NewDesignator=C64
+Change Component Designator: OldDesignator=S NewDesignator=C66
+Added Pin To Net: NetName=SW_7 Pin=U5-55
+Added Pin To Net: NetName=5V Pin=U5-64
+Change Net Name : Old Net Name=5V New Net Name=IO_C0
+Change Net Name : Old Net Name=IO_C0 New Net Name=VCC
+Added Member To Class: ClassName=U_Battery_Charger_Section Member=Component C2 0.1uF
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component C6 0.1uF
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component C10 0.1uF
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component C15 0.1uF
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component C18 0.1uF
+Added Member To Class: ClassName=U_Regulator_Section Member=Component C22 0.1uF
+Added Member To Class: ClassName=U_Regulator_Section Member=Component C24 0.1uF
+Added Member To Class: ClassName=U_Regulator_Section Member=Component C26 0.1uF
+Added Member To Class: ClassName=U_Controller_Section Member=Component C27 0.1uF
+Added Member To Class: ClassName=U_Controller_Section Member=Component C28 0.1uF
+Added Member To Class: ClassName=U_Controller_Section Member=Component C29 0.1uF
+Added Member To Class: ClassName=U_Controller_Section Member=Component C30 0.1uF
+Added Member To Class: ClassName=U_Controller_Section Member=Component C33 0.1uF
+Added Member To Class: ClassName=U_Controller_Section Member=Component C36 0.1uF
+Added Member To Class: ClassName=U_Switch_Sheet Member=Component C37 0.1uF
+Added Member To Class: ClassName=U_Switch_Sheet Member=Component C38 0.1uF
+Added Member To Class: ClassName=U_Switch_Sheet Member=Component C39 0.1uF
+Added Member To Class: ClassName=U_Switch_Sheet Member=Component C40 0.1uF
+Added Member To Class: ClassName=U_Switch_Sheet Member=Component C41 0.1uF
+Added Member To Class: ClassName=U_Switch_Sheet Member=Component C42 0.1uF
+Added Member To Class: ClassName=U_Heater_Section Member=Component C44 0.1uF
+Added Member To Class: ClassName=U_Temperature_Sense_Section Member=Component C46 0.1uF
+Added Member To Class: ClassName=U_Temperature_Sense_Section Member=Component C48 0.1uF
+Added Member To Class: ClassName=U_Temperature_Sense_Section Member=Component C52 0.1uF
+Added Member To Class: ClassName=U_Connector_Section Member=Component C53 0.1uF
+Added Member To Class: ClassName=U_Connector_Section Member=Component C54 0.1uF
+Added Member To Class: ClassName=U_Gate_Driver_Section Member=Component C55 0.1uF
+Added Member To Class: ClassName=U_Battery_Charger_Section Member=Component C56 47nF
+Added Member To Class: ClassName=U_Switch_Sheet Member=Component C57 0.1uF
+Added Member To Class: ClassName=U_Heater_Section Member=Component C60 0.1uF
+Added Member To Class: ClassName=U_Valve_Section Member=Component C62 0.1uF
+Added Member To Class: ClassName=U_Valve_Section Member=Component C64 0.1uF
+Added Member To Class: ClassName=U_Valve_Section Member=Component C66 0.1uF
+Added Member To Class: ClassName=U_Battery_Charger_Section Member=Component D6 SMBT70A-13-F
+Added Member To Class: ClassName=U_Battery_Charger_Section Member=Component D7 SS510B
+Added Member To Class: ClassName=U_Temperature_Sense_Section Member=Component P8 M20-9980346
+Added Member To Class: ClassName=U_Temperature_Sense_Section Member=Component P9 M20-9980346
+Added Member To Class: ClassName=U_Battery_Charger_Section Member=Component Q20 RU6085H
+Added Member To Class: ClassName=U_Valve_Section Member=Component Q22 DMN13H750S-7
+Added Member To Class: ClassName=U_Battery_Charger_Section Member=Component R64 1K
+Added Member To Class: ClassName=U_Battery_Charger_Section Member=Component R65 1K
+Added Member To Class: ClassName=U_Valve_Section Member=Component R69 10K
+Added Member To Class: ClassName=U_Battery_Charger_Section Member=Component SB7 Solder Bridge
+Added Member To Class: ClassName=U_Battery_Charger_Section Member=Component U7 LTC4359CMS8#PBF
