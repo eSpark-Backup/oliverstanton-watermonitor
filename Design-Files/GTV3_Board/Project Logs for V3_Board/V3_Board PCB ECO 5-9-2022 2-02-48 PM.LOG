@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=P10-4
+Removed Pin From Net: NetName=VCC Pin=P18-1
+Removed Pin From Net: NetName=GND Pin=Q24-2
+Removed Pin From Net: NetName=IO_C0 Pin=R51-2
+Removed Pin From Net: NetName=3V3 Pin=R71-2
+Removed Pin From Net: NetName=VCC Pin=SB3-2
+Removed Pin From Net: NetName=VCC Pin=SB5-2
+Removed Pin From Net: NetName=IO_C0 Pin=U5-64
+Removed Pin From Net: NetName=FLOW_MCU Pin=U5-83
+Removed Member From Class: ClassName=U_Connector_Section Member=C15
+Removed Member From Class: ClassName=U_Valve_Section Member=P18
+Removed Member From Class: ClassName=U_Valve_Section Member=Q24
+Removed Member From Class: ClassName=U_Valve_Section Member=R71
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=GND Pin=R51-2
+Added Pin To Net: NetName=HEAT_CNTRL Pin=U5-56
+Added Pin To Net: NetName=FLOW_MCU Pin=U5-57
+Added Pin To Net: NetName=PWM_D2 Pin=U5-83
+Change Net Name : Old Net Name=IO_C0 New Net Name=5V
+Added Pin To Net: NetName=IO_C0 Pin=P10-4
+Added Pin To Net: NetName=IO_C0 Pin=SB3-2
+Added Pin To Net: NetName=IO_C0 Pin=SB4-2
+Added Pin To Net: NetName=IO_C0 Pin=U5-64
+Added Net: Name=IO_C0
+Added Pin To Net: NetName=NetP10_3 Pin=P10-3
+Added Pin To Net: NetName=NetP10_3 Pin=R52-1
+Added Net: Name=NetP10_3
+Added Pin To Net: NetName=PS_PWR Pin=P12-1
+Added Pin To Net: NetName=PS_PWR Pin=SB5-2
+Added Pin To Net: NetName=PS_PWR Pin=SB6-2
+Added Net: Name=PS_PWR
+Added Member To Class: ClassName=U_Connector_Section Member=Component C51 0.1uF
+Added Member To Class: ClassName=U_Controller_Section Member=Component R15 680R

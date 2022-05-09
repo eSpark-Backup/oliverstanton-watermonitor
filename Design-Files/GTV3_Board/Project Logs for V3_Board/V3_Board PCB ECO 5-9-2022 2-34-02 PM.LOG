@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC Pin=C63-1
+Removed Pin From Net: NetName=GND Pin=C63-2
+Removed Pin From Net: NetName=VCC Pin=C64-1
+Removed Pin From Net: NetName=GND Pin=C64-2
+Removed Member From Class: ClassName=U_Valve_Section Member=C63
+Removed Member From Class: ClassName=U_Valve_Section Member=C64
