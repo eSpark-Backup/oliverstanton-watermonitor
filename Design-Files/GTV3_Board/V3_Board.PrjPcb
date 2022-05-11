@@ -367,7 +367,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JOVNKXYW
+DocumentUniqueId=HWHNPLPS
 
 [Document20]
 DocumentPath=Valve_Section.SchDoc
@@ -470,6 +470,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for V3_Board\Design Rule Check - V3_Board.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
