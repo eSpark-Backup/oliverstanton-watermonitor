@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC# Pin=C21-1
+Removed Pin From Net: NetName=VCC# Pin=C22-1
+Removed Pin From Net: NetName=VCC# Pin=D2-1
+Added Pin To Net: NetName=5V Pin=C21-1
+Added Pin To Net: NetName=5V Pin=C22-1
+Added Pin To Net: NetName=5V Pin=D2-1
+Added Member To Class: ClassName=U_LED_Section Member=Component Q26 DMN13H750S-7
+Added Member To Class: ClassName=U_LED_Section Member=Component Q27 DMN13H750S-7
+Added Member To Class: ClassName=U_LED_Section Member=Component Q28 DMN13H750S-7
+Added Member To Class: ClassName=U_Sensor_Section Member=Component U8 PS2801C-1-F3-A
+Added Member To Class: ClassName=U_Sensor_Section Member=Component U9 PS2801C-1-F3-A
