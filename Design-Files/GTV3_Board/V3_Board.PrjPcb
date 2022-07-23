@@ -81,7 +81,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PTASJLFO
 
 [Document3]
-DocumentPath=Battery_Charger_Section.SchDoc
+DocumentPath=Reverse Protection_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -478,7 +478,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=15
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
