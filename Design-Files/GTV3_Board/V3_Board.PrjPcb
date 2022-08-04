@@ -251,23 +251,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QVDARPIB
 
 [Document13]
-DocumentPath=Connector_Section.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=11
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XWLZITAF
-
-[Document14]
 DocumentPath=Controller_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -284,24 +267,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
-DocumentPath=Connector_Section.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document16]
+[Document14]
 DocumentPath=Current_Sense_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -318,7 +284,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=Switch_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -335,7 +301,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document16]
 DocumentPath=Temperature_Sense_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -352,7 +318,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document17]
 DocumentPath=Gate_Driver_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -369,7 +335,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document18]
 DocumentPath=V3_Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -386,7 +352,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWHNPLPS
 
-[Document21]
+[Document19]
 DocumentPath=Valve_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -403,7 +369,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCFXJCKD
 
-[Document22]
+[Document20]
 DocumentPath=Valve_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -420,7 +386,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document21]
 DocumentPath=Sensor_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -437,7 +403,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYZKWUFO
 
-[Document24]
+[Document22]
 DocumentPath=LED_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -454,7 +420,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYBGJVIW
 
-[Document25]
+[Document23]
 DocumentPath=LED_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -471,7 +437,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document24]
 DocumentPath=Sensor_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -488,7 +454,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document25]
 DocumentPath=V3_Board.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -505,7 +471,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document26]
 DocumentPath=Heater_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -522,7 +488,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document27]
 DocumentPath=Receiver_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -539,7 +505,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XBWWTKER
 
-[Document30]
+[Document28]
 DocumentPath=Receiver_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -556,8 +522,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document29]
+DocumentPath=Connector_Section.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XWLZITAF
+
+[Document30]
 DocumentPath=Top_Sheet.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document31]
+DocumentPath=Connector_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
