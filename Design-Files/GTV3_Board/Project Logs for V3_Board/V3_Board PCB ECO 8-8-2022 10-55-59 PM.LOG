@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=CRNT_SNS.IP+_1 Pin=J3-1
+Removed Pin From Net: NetName=GND_DRV_1 Pin=J3-2
+Change Footprint: Footprint Not Found Res0402
+Change Footprint: Footprint Not Found SOLDER BRIDGE-1206
+Add Component: Footprint Not Found Cap0603
+Add Component: Footprint Not Found HJ-SMA021
+Add Component: Footprint Not Found IND 0402
+Add Component: Footprint Not Found Res0603
+Add Component: Footprint Not Found Solder Bridge
+Add Component: Footprint Not Found 16-QSOP
+Add Component: Footprint Not Found SX3B13.52127F2010F30
+Add Pin To Net: Unknown Pin: Pin C75-1
+Add Pin To Net: Unknown Pin: Pin C75-2
+Added Pin To Net: NetName=GND_DRV_1 Pin=J3-1
+Added Pin To Net: NetName=CRNT_SNS.IP+_1 Pin=J3-2
+Add Pin To Net: Unknown Pin: Pin J15-1
+Add Pin To Net: Unknown Pin: Pin J15-2
+Add Pin To Net: Unknown Pin: Pin J15-3
+Add Pin To Net: Unknown Pin: Pin J15-4
+Add Pin To Net: Unknown Pin: Pin J15-5
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin R105-1
+Add Pin To Net: Unknown Pin: Pin R105-2
+Add Pin To Net: Unknown Pin: Pin SB6-1
+Add Pin To Net: Unknown Pin: Pin SB6-2
+Add Pin To Net: Unknown Pin: Pin U16-1
+Add Pin To Net: Unknown Pin: Pin U16-2
+Add Pin To Net: Unknown Pin: Pin U16-3
+Add Pin To Net: Unknown Pin: Pin U16-4
+Add Pin To Net: Unknown Pin: Pin U16-5
+Add Pin To Net: Unknown Pin: Pin U16-6
+Add Pin To Net: Unknown Pin: Pin U16-7
+Add Pin To Net: Unknown Pin: Pin U16-8
+Add Pin To Net: Unknown Pin: Pin U16-9
+Add Pin To Net: Unknown Pin: Pin U16-10
+Add Pin To Net: Unknown Pin: Pin U16-11
+Add Pin To Net: Unknown Pin: Pin U16-12
+Add Pin To Net: Unknown Pin: Pin U16-13
+Add Pin To Net: Unknown Pin: Pin U16-14
+Add Pin To Net: Unknown Pin: Pin U16-16
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X2-2
+Add Pin To Net: Unknown Pin: Pin X2-3
+Add Pin To Net: Unknown Pin: Pin X2-4
+Add Class Member: Failed to add class member : Component C75 2.2uF
+Add Class Member: Failed to add class member : Component J15 HJ-SMA508
+Add Class Member: Failed to add class member : Component L3 39nH
+Add Class Member: Failed to add class member : Component R105 100K
+Add Class Member: Failed to add class member : Component SB6 Solder Bridge
+Add Class Member: Failed to add class member : Component U16 MICRF220AYQS
+Add Class Member: Failed to add class member : Component X2 13.52127MHz
