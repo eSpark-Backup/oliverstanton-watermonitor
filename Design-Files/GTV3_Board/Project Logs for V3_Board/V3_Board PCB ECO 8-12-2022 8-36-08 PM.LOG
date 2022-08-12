@@ -1,0 +1,11 @@
+Added Component: Designator=J15(HJ-SMA508)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/RF-Connectors-Coaxial-Connectors_HJ-Tech-HJ-SMA508_C1509209.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HJ Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HJ-SMA508"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ15_1 Pin=J15-1
+Added Pin To Net: NetName=GND Pin=J15-2
+Added Pin To Net: NetName=GND Pin=J15-3
+Added Pin To Net: NetName=GND Pin=J15-4
+Added Pin To Net: NetName=GND Pin=J15-5
+Added Member To Class: ClassName=U_Receiver_Section Member=Component J15 HJ-SMA508

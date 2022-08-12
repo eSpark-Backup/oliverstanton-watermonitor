@@ -1,0 +1,4 @@
+Added Component: Designator=SB5(Solder Bridge)
+Added Pin To Net: NetName=VCC Pin=SB5-1
+Added Pin To Net: NetName=NetJ14_1 Pin=SB5-2
+Added Member To Class: ClassName=U_Connector_Section Member=Component SB5 Solder Bridge
