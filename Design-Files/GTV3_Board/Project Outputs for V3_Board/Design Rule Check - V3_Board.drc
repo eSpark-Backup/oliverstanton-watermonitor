@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\XPENDER\Documents\GitHub\OliverStanton-WaterMonitor\Design-Files\GTV3_Board\V3_Board.PcbDoc
-Date     : 8/14/2022
-Time     : 9:46:01 PM
+Date     : 8/22/2022
+Time     : 11:00:09 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -10,8 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad P8-6(3231.391mil,-47.827mil) on Multi-Layer And Pad P6-3(3561.141mil,-47.827mil) on Multi-Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -44,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:06

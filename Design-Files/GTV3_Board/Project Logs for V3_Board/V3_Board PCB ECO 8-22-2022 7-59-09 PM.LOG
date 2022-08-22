@@ -1,0 +1,8 @@
+Added Component: Designator=D3(SMAJ5.0CA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/TVS_Shandong-Jingdao-Microelectronics-SMAJ5-0CA_C353441.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Shandong Jingdao Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMAJ5.0CA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=3V3 Pin=D3-2
+Added Member To Class: ClassName=U_Temperature_Sense_Section Member=Component D3 SMAJ5.0CA

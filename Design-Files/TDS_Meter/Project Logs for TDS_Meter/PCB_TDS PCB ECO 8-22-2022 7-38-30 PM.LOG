@@ -1,0 +1,10 @@
+Added Component: Designator=R4(VG039NCHXTB202)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Variable-Resistors-Potentiometers_HDK-Hokuriku-Elec-Industry-VG039NCHXTB202_C128549.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "VG039NCHXTB202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR3_1 Pin=R4-1
+Added Pin To Net: NetName=TDS_2 Pin=R4-2
+Added Pin To Net: NetName=TDS_2 Pin=R4-3
+Added Member To Class: ClassName=TDS_Sense_Section Member=Component R4 2K
