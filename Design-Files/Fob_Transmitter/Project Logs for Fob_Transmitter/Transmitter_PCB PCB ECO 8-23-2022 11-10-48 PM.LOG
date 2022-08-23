@@ -1,0 +1,8 @@
+Change component parameters: Designator = "J1" ("J1"); Footprint = "DW254W-11-03-85"; UniqueID = "\MRPIVBYL" ("\MRPIVBYL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/span-style-background-color-ff0-Female-span-Headers_DEALON-DW254W-11-03-85_C2935993.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "DEALON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "DW254W-11-03-85"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Transmitter_Section Member=Component SW4 TS-1185EC-C-D-B
+Added Member To Class: ClassName=Transmitter_Section Member=Component SW5 TS-1185EC-C-D-B

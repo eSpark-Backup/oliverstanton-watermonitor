@@ -1,0 +1,39 @@
+Altium Designer Pick and Place Locations
+C:\Users\XPENDER\Documents\GitHub\OliverStanton-WaterMonitor\Design-Files\Fob_Transmitter\Project Outputs for Fob_Transmitter\Pick Place for Transmitter_PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/08/22
+Time:       23:23
+Revision:   2acc17d565e02a41ba7013c4d950a7726f6d48db
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
+"J2","PZ254V-11-05P","TopLayer","HDR1X5","107,000mil","258,500mil","90","Pin Header 5 1 right-angle","107,000mil","258,500mil","107,000mil","58,500mil"
+"R2","4.7K","BottomLayer","RES-0603","711,000mil","686,000mil","0","RES SMD 4.7K OHM 1% 1/10W 0603","711,000mil","686,000mil","681,000mil","686,000mil"
+"U2","ATTINY1616-MNR","TopLayer","20-QFN","436,500mil","380,000mil","180","IC MCU 8BIT 16KB FLASH 20VQFN","436,500mil","380,000mil","495,555mil","348,504mil"
+"U1","LP5900SD-3.3/NOPB","BottomLayer","WSON-6","293,000mil","497,000mil","0","IC REG LINEAR 3.3V 150MA 6WSON","293,000mil","497,000mil","247,724mil","471,409mil"
+"SW4","TS-1185EC-C-D-B","TopLayer","TS-1185EC-C-D-B","529,125mil","717,000mil","180","3mm 2mm Round Button 50mA Top3.65mm SPST 12V SMD Tactile Switches","529,125mil","717,000mil","453,338mil","687,472mil"
+"SW3","TS-1185EC-C-D-B","TopLayer","TS-1185EC-C-D-B","309,250mil","717,000mil","180","3mm 2mm Round Button 50mA Top3.65mm SPST 12V SMD Tactile Switches","309,250mil","717,000mil","233,463mil","687,472mil"
+"SW2","TS-1185EC-C-D-B","TopLayer","TS-1185EC-C-D-B","732,375mil","77,000mil","180","3mm 2mm Round Button 50mA Top3.65mm SPST 12V SMD Tactile Switches","732,375mil","77,000mil","656,588mil","47,472mil"
+"SW5","TS-1185EC-C-D-B","TopLayer","TS-1185EC-C-D-B","749,000mil","717,000mil","180","3mm 2mm Round Button 50mA Top3.65mm SPST 12V SMD Tactile Switches","749,000mil","717,000mil","673,213mil","687,472mil"
+"SW1","TS-1185EC-C-D-B","TopLayer","TS-1185EC-C-D-B","511,500mil","77,000mil","180","3mm 2mm Round Button 50mA Top3.65mm SPST 12V SMD Tactile Switches","511,500mil","77,000mil","435,713mil","47,472mil"
+"R5","4.7K","BottomLayer","RES-0603","491,338mil","686,000mil","0","RES SMD 4.7K OHM 1% 1/10W 0603","491,338mil","686,000mil","461,338mil","686,000mil"
+"R4","4.7K","BottomLayer","RES-0603","271,000mil","686,000mil","0","RES SMD 4.7K OHM 1% 1/10W 0603","271,000mil","686,000mil","241,000mil","686,000mil"
+"R3","4.7K","BottomLayer","RES-0603","701,000mil","48,000mil","0","RES SMD 4.7K OHM 1% 1/10W 0603","701,000mil","48,000mil","671,000mil","48,000mil"
+"R1","4.7K","BottomLayer","RES-0603","480,000mil","46,000mil","0","RES SMD 4.7K OHM 1% 1/10W 0603","480,000mil","46,000mil","450,000mil","46,000mil"
+"P1","61300211121","TopLayer","HDR1X2","112,000mil","679,000mil","90","CONN HEADER VERT 2POS 2.54MM","112,000mil","629,000mil","112,000mil","629,000mil"
+"L1","MMZ0603S601CT000","TopLayer","IND_0201","550,500mil","396,000mil","180","FERRITE BEAD 600 OHM 0201 1LN","550,500mil","396,000mil","561,327mil","396,000mil"
+"J1","FS1000A TX Module","TopLayer","DW254W-11-03-85","1996,000mil","391,000mil","270","3 PIN 2.54mm 3A Female Headers ROHS","1996,000mil","491,000mil","1996,000mil","491,000mil"
+"C10","0.1uF","BottomLayer","Cap0603","1918,000mil","421,000mil","90","CAP CER 0.1UF 50V Y5V 0603","1918,000mil","421,000mil","1918,000mil","391,000mil"
+"C9","0.1uF","BottomLayer","Cap0603","605,000mil","716,000mil","90","CAP CER 0.1UF 50V Y5V 0603","605,000mil","716,000mil","605,000mil","686,000mil"
+"C8","0.1uF","BottomLayer","Cap0603","385,000mil","716,000mil","90","CAP CER 0.1UF 50V Y5V 0603","385,000mil","716,000mil","385,000mil","686,000mil"
+"C7","0.1uF","BottomLayer","Cap0603","809,000mil","78,000mil","90","CAP CER 0.1UF 50V Y5V 0603","809,000mil","78,000mil","809,000mil","48,000mil"
+"C6","0.1uF","BottomLayer","Cap0603","824,000mil","716,000mil","90","CAP CER 0.1UF 50V Y5V 0603","824,000mil","716,000mil","824,000mil","686,000mil"
+"C5","0.1uF","BottomLayer","Cap0603","587,000mil","77,000mil","90","CAP CER 0.1UF 50V Y5V 0603","587,000mil","77,000mil","587,000mil","47,000mil"
+"C4","1uF","BottomLayer","Cap0603","476,500mil","411,000mil","180","CAP CER 1UF 25V X5R 0603","476,500mil","411,000mil","506,500mil","411,000mil"
+"C3","0.1uF","BottomLayer","Cap0603","476,500mil","361,000mil","180","CAP CER 0.1UF 50V Y5V 0603","476,500mil","361,000mil","506,500mil","361,000mil"
+"C2","0.47uF","BottomLayer","Cap0603","194,000mil","502,000mil","90","CAP CER 0.47uF 50V X7R 0603","194,000mil","502,000mil","194,000mil","472,000mil"
+"C1","0.47uF","BottomLayer","Cap0603","308,000mil","572,000mil","180","CAP CER 0.47uF 50V X7R 0603","308,000mil","572,000mil","338,000mil","572,000mil"
