@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+C:\Users\XPENDER\Documents\GitHub\OliverStanton-WaterMonitor\Design-Files\TDS_Meter\Project Outputs for TDS_Meter\Pick Place for PCB_TDS.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/08/22
+Time:       19:11
+Revision:   f8accbf55870ec7c365c90f91a1634b7be3d0d7c
+Variant:    No variations
+Units used: mil
+
+Designator Comment        Layer       Footprint       Center-X(mil) Center-Y(mil) Rotation Description                                                     Ref-X(mil) Ref-Y(mil) Pad-X(mil) Pad-Y(mil) 
+R4         2K             BottomLayer VG039NCHXTB202  247,000mil    239,000mil    90       "±250ppm/? ±25% 2kO SMD Variable Resistors/Potentiometers ROHS" 247,000mil 239,000mil 183,024mil 199,630mil 
+R5         1K             BottomLayer RES-0603        129,000mil    235,000mil    270      "RES SMD 1K OHM 1% 1/10W 0603"                                  129,000mil 235,000mil 129,000mil 265,000mil 
+R3         1K             BottomLayer RES-0603        226,000mil    136,000mil    0        "RES SMD 1K OHM 1% 1/10W 0603"                                  226,000mil 136,000mil 196,000mil 136,000mil 
+R2         10k            TopLayer    NCP21XV103J03RA 208,000mil    437,000mil    90       "THERMISTOR NTC 10KOHM 3900K 0805"                              208,000mil 437,000mil 208,000mil 397,000mil 
+R1         15K            BottomLayer RES-0603        310,000mil    436,000mil    90       "RES SMD 15K OHM 1% 1/10W 0603"                                 310,000mil 436,000mil 310,000mil 406,000mil 
+Q1         IRLML6402TRPBF BottomLayer SOT-23          221,000mil    437,000mil    90       "MOSFET P-CH 20V 3.7A SOT23"                                    221,000mil 437,000mil 181,630mil 399,598mil 
+P3         61300611121    TopLayer    HDR1X6          57,000mil     308,000mil    270      "CONN HEADER VERT 6POS 2.54MM"                                  57,000mil  558,000mil 57,000mil  558,000mil 
+P2         "Test Point"   TopLayer    TEST_POINT      204,000mil    151,000mil    0        "Test Point ON"                                                 204,000mil 151,000mil 204,000mil 151,000mil 
+P1         "Test Point"   TopLayer    TEST_POINT      204,000mil    232,000mil    0        "Test Point ON"                                                 204,000mil 232,000mil 204,000mil 232,000mil 
+C1         0.1uF          BottomLayer Cap0603         135,000mil    504,000mil    90       "CAP CER 0.1UF 50V Y5V 0603"                                    135,000mil 504,000mil 135,000mil 474,000mil 
