@@ -1,0 +1,17 @@
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component C4 10uF
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component C6 0.1uF
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component C8 1uF
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component C10 0.1uF
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component C11 1uF
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component C14 1uF
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component C15 0.1uF
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component C18 0.1uF
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component C19 1uF
+Added Member To Class: ClassName=U_Receiver_Section Member=Component J18 XY-MK-5V Module
+Added Member To Class: ClassName=U_Valve_Section Member=Component K4 SMI-12VDC-SL-2C
+Added Member To Class: ClassName=U_Heater_Section Member=Component Q7 IRLML6402TRPBF
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component R5 2.2K
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component R7 470K
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component R8 2.2K
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component R10 470K
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB22 Solder Bridge
