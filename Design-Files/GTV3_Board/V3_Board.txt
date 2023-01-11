@@ -1,33 +1,33 @@
 Board Information Report
-Filename     : E:\OliverStanton-WaterMonitor\Design-Files\GTV3_Board\V3_Board.PcbDoc
-Date         : 1/11/2023
-Time         : 6:04:29 PM
+Filename     : C:\Users\XPENDER\Documents\GitHub\OliverStanton-WaterMonitor\Design-Files\GTV3_Board\V3_Board.PcbDoc
+Date         : 1/12/2023
+Time         : 1:00:46 AM
 Time Elapsed : 00:00:00
 
 General
-    Board Size, 6915milsx4422mils
+    Board Size, 175.641mmx112.3188mm
     Components on board, 363
 count : 2
 
 Routing Information
-    Routing completion, 95.59%
+    Routing completion, 99.87%
     Connections, 771
-    Connections routed, 737
-    Connections remaining, 34
+    Connections routed, 770
+    Connections remaining, 1
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 565, 0, 1368, 0, 123, 7, 0
-    Bottom Layer, 0, 326, 0, 1312, 0, 62, 5, 0
+    Top Layer, 0, 565, 0, 1458, 0, 138, 7, 0
+    Bottom Layer, 0, 326, 0, 1383, 0, 63, 5, 0
     Draft and Dimension, 0, 0, 0, 24, 2, 0, 0, 319
     Board Outline, 0, 0, 0, 4, 0, 0, 0, 0
     Fab, 0, 0, 0, 0, 1, 0, 0, 0
-    Multi-Layer, 0, 154, 398, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 154, 449, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 60, 0, 0, 1347, 539, 24, 0, 0
+    Top Overlay, 60, 0, 0, 1347, 538, 24, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 24, 0, 0, 3699, 323, 17, 0, 0
+    Bottom Overlay, 24, 0, 0, 3699, 322, 17, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
@@ -36,3 +36,33 @@ count : 15
 
 Drill Pairs, Vias
 count : 0
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 10.501, 6774.649, 34%
+    Bottom Layer, 7.314, 4718.862, 24%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+    0mm, 0, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mm, 0, 0
+    0.3mm, 0, 0
+    0.7112mm, 0, 0
+    0.8mm, 0, 0
+    0.9mm, 0, 0
+    0.95mm, 0, 0
+    1mm, 0, 0
+    1.02mm, 0, 0
+    1.4mm, 0, 0
+    1.5mm, 0, 0
+    1.6mm, 0, 0
+    1.7mm, 0, 0
+    3.1mm, 0, 0
+count : 13
+
+Plated Slot Size / Length, Pads
+    19.685mil / 45.276mil, 0
+    21.654mil / 33.465mil, 0
+count : 2
