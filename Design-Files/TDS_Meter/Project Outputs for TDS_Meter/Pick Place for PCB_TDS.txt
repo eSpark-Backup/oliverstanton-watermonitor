@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+D:\eSpark-Consultants\OliverStanton-WaterMonitor\Design-Files\TDS_Meter\Project Outputs for TDS_Meter\Pick Place for PCB_TDS.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/02/23
+Time:       12:27
+Revision:   9eaaa01b5980fd2d2a9e1b3f135eb1accf1c774b
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Center-X(mm) Center-Y(mm) Rotation 
+R4         BottomLayer 6.2738mm     6.0706mm     90       
+R5         BottomLayer 3.2766mm     5.9690mm     270      
+R3         BottomLayer 5.7404mm     3.4544mm     0        
+R2         TopLayer    5.2832mm     11.0998mm    90       
+R1         BottomLayer 7.8740mm     11.0744mm    90       
+Q1         BottomLayer 5.6134mm     11.0998mm    90       
+P3         TopLayer    1.4478mm     7.8232mm     270      
+P2         TopLayer    5.1816mm     3.8354mm     0        
+P1         TopLayer    5.1816mm     5.8928mm     0        
+C1         BottomLayer 3.4290mm     12.8016mm    90       
