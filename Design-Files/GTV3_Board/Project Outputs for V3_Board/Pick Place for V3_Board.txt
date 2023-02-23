@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\XPENDER\Documents\GitHub\OliverStanton-WaterMonitor\Design-Files\GTV3_Board\Project Outputs for V3_Board\Pick Place for V3_Board.txt
+E:\OliverStanton-WaterMonitor\Design-Files\GTV3_Board\Project Outputs for V3_Board\Pick Place for V3_Board.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       20/01/23
-Time:       00:37
-Revision:   278e73fd02fae06d92207a96b7d9ccab6d5229c7
+Date:       23/02/23
+Time:       13:46
+Revision:   b674940e2560f442fde91a98d4ecfad0a7dd8930
 Variant:    No variations
 Units used: mil
 
