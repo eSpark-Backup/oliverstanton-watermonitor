@@ -4,20 +4,20 @@ C:\Users\XPENDER\Documents\GitHub\OliverStanton-WaterMonitor\Design-Files\TDS_Me
 ========================================================================================================================
 File Design Information:
 
-Date:       23/08/22
-Time:       19:11
-Revision:   f8accbf55870ec7c365c90f91a1634b7be3d0d7c
+Date:       24/02/23
+Time:       23:42
+Revision:   9eaaa01b5980fd2d2a9e1b3f135eb1accf1c774b
 Variant:    No variations
-Units used: mil
+Units used: mm
 
-Designator Comment        Layer       Footprint       Center-X(mil) Center-Y(mil) Rotation Description                                                     Ref-X(mil) Ref-Y(mil) Pad-X(mil) Pad-Y(mil) 
-R4         2K             BottomLayer VG039NCHXTB202  247,000mil    239,000mil    90       "±250ppm/? ±25% 2kO SMD Variable Resistors/Potentiometers ROHS" 247,000mil 239,000mil 183,024mil 199,630mil 
-R5         1K             BottomLayer RES-0603        129,000mil    235,000mil    270      "RES SMD 1K OHM 1% 1/10W 0603"                                  129,000mil 235,000mil 129,000mil 265,000mil 
-R3         1K             BottomLayer RES-0603        226,000mil    136,000mil    0        "RES SMD 1K OHM 1% 1/10W 0603"                                  226,000mil 136,000mil 196,000mil 136,000mil 
-R2         10k            TopLayer    NCP21XV103J03RA 208,000mil    437,000mil    90       "THERMISTOR NTC 10KOHM 3900K 0805"                              208,000mil 437,000mil 208,000mil 397,000mil 
-R1         15K            BottomLayer RES-0603        310,000mil    436,000mil    90       "RES SMD 15K OHM 1% 1/10W 0603"                                 310,000mil 436,000mil 310,000mil 406,000mil 
-Q1         IRLML6402TRPBF BottomLayer SOT-23          221,000mil    437,000mil    90       "MOSFET P-CH 20V 3.7A SOT23"                                    221,000mil 437,000mil 181,630mil 399,598mil 
-P3         61300611121    TopLayer    HDR1X6          57,000mil     308,000mil    270      "CONN HEADER VERT 6POS 2.54MM"                                  57,000mil  558,000mil 57,000mil  558,000mil 
-P2         "Test Point"   TopLayer    TEST_POINT      204,000mil    151,000mil    0        "Test Point ON"                                                 204,000mil 151,000mil 204,000mil 151,000mil 
-P1         "Test Point"   TopLayer    TEST_POINT      204,000mil    232,000mil    0        "Test Point ON"                                                 204,000mil 232,000mil 204,000mil 232,000mil 
-C1         0.1uF          BottomLayer Cap0603         135,000mil    504,000mil    90       "CAP CER 0.1UF 50V Y5V 0603"                                    135,000mil 504,000mil 135,000mil 474,000mil 
+Designator Layer    Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+C1         TopLayer 8,1026mm     13,2334mm    270      8,1026mm  13,2334mm 8,1026mm  13,9954mm 
+P1         TopLayer 10,0330mm    6,5786mm     0        10,0330mm 6,5786mm  10,0330mm 6,5786mm  
+P2         TopLayer 10,0330mm    4,4196mm     0        10,0330mm 4,4196mm  10,0330mm 4,4196mm  
+P3         TopLayer 1,4478mm     7,8232mm     270      1,4478mm  14,1732mm 1,4478mm  14,1732mm 
+Q1         TopLayer 5,8166mm     13,1826mm    90       5,8166mm  13,1826mm 6,8166mm  12,2326mm 
+R1         TopLayer 7,3406mm     10,5410mm    0        7,3406mm  10,5410mm 6,5786mm  10,5410mm 
+R2         TopLayer 10,0330mm    9,9568mm     90       10,0330mm 9,9568mm  10,0330mm 8,9408mm  
+R3         TopLayer 8,2042mm     2,6670mm     0        8,2042mm  2,6670mm  7,4422mm  2,6670mm  
+R4         TopLayer 6,5786mm     5,6134mm     90       6,5786mm  5,6134mm  8,2036mm  4,6134mm  
+R5         TopLayer 5,5372mm     2,6670mm     0        5,5372mm  2,6670mm  4,7752mm  2,6670mm  
