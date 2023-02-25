@@ -4,36 +4,36 @@ C:\Users\XPENDER\Documents\GitHub\OliverStanton-WaterMonitor\Design-Files\Fob_Tr
 ========================================================================================================================
 File Design Information:
 
-Date:       23/08/22
-Time:       23:23
-Revision:   2acc17d565e02a41ba7013c4d950a7726f6d48db
+Date:       25/02/23
+Time:       14:56
+Revision:   f80261f42d8afe6c7b6e3f2706d03e188e19513f
 Variant:    No variations
-Units used: mil
+Units used: mm
 
-Designator Comment             Layer       Footprint       Center-X(mil) Center-Y(mil) Rotation Description                                                         Ref-X(mil)  Ref-Y(mil) Pad-X(mil)  Pad-Y(mil) 
-J2         PZ254V-11-05P       TopLayer    HDR1X5          107,000mil    258,500mil    90       "Pin Header 5 1 right-angle"                                        107,000mil  258,500mil 107,000mil  58,500mil  
-R2         4.7K                BottomLayer RES-0603        711,000mil    686,000mil    0        "RES SMD 4.7K OHM 1% 1/10W 0603"                                    711,000mil  686,000mil 681,000mil  686,000mil 
-U2         ATTINY1616-MNR      TopLayer    20-QFN          436,500mil    380,000mil    180      "IC MCU 8BIT 16KB FLASH 20VQFN"                                     436,500mil  380,000mil 495,555mil  348,504mil 
-U1         LP5900SD-3.3/NOPB   BottomLayer WSON-6          293,000mil    497,000mil    0        "IC REG LINEAR 3.3V 150MA 6WSON"                                    293,000mil  497,000mil 247,724mil  471,409mil 
-SW4        TS-1185EC-C-D-B     TopLayer    TS-1185EC-C-D-B 529,125mil    717,000mil    180      "3mm 2mm Round Button 50mA Top3.65mm SPST 12V SMD Tactile Switches" 529,125mil  717,000mil 453,338mil  687,472mil 
-SW3        TS-1185EC-C-D-B     TopLayer    TS-1185EC-C-D-B 309,250mil    717,000mil    180      "3mm 2mm Round Button 50mA Top3.65mm SPST 12V SMD Tactile Switches" 309,250mil  717,000mil 233,463mil  687,472mil 
-SW2        TS-1185EC-C-D-B     TopLayer    TS-1185EC-C-D-B 732,375mil    77,000mil     180      "3mm 2mm Round Button 50mA Top3.65mm SPST 12V SMD Tactile Switches" 732,375mil  77,000mil  656,588mil  47,472mil  
-SW5        TS-1185EC-C-D-B     TopLayer    TS-1185EC-C-D-B 749,000mil    717,000mil    180      "3mm 2mm Round Button 50mA Top3.65mm SPST 12V SMD Tactile Switches" 749,000mil  717,000mil 673,213mil  687,472mil 
-SW1        TS-1185EC-C-D-B     TopLayer    TS-1185EC-C-D-B 511,500mil    77,000mil     180      "3mm 2mm Round Button 50mA Top3.65mm SPST 12V SMD Tactile Switches" 511,500mil  77,000mil  435,713mil  47,472mil  
-R5         4.7K                BottomLayer RES-0603        491,338mil    686,000mil    0        "RES SMD 4.7K OHM 1% 1/10W 0603"                                    491,338mil  686,000mil 461,338mil  686,000mil 
-R4         4.7K                BottomLayer RES-0603        271,000mil    686,000mil    0        "RES SMD 4.7K OHM 1% 1/10W 0603"                                    271,000mil  686,000mil 241,000mil  686,000mil 
-R3         4.7K                BottomLayer RES-0603        701,000mil    48,000mil     0        "RES SMD 4.7K OHM 1% 1/10W 0603"                                    701,000mil  48,000mil  671,000mil  48,000mil  
-R1         4.7K                BottomLayer RES-0603        480,000mil    46,000mil     0        "RES SMD 4.7K OHM 1% 1/10W 0603"                                    480,000mil  46,000mil  450,000mil  46,000mil  
-P1         61300211121         TopLayer    HDR1X2          112,000mil    679,000mil    90       "CONN HEADER VERT 2POS 2.54MM"                                      112,000mil  629,000mil 112,000mil  629,000mil 
-L1         MMZ0603S601CT000    TopLayer    IND_0201        550,500mil    396,000mil    180      "FERRITE BEAD 600 OHM 0201 1LN"                                     550,500mil  396,000mil 561,327mil  396,000mil 
-J1         "FS1000A TX Module" TopLayer    DW254W-11-03-85 1996,000mil   391,000mil    270      "3 PIN 2.54mm 3A Female Headers ROHS"                               1996,000mil 491,000mil 1996,000mil 491,000mil 
-C10        0.1uF               BottomLayer Cap0603         1918,000mil   421,000mil    90       "CAP CER 0.1UF 50V Y5V 0603"                                        1918,000mil 421,000mil 1918,000mil 391,000mil 
-C9         0.1uF               BottomLayer Cap0603         605,000mil    716,000mil    90       "CAP CER 0.1UF 50V Y5V 0603"                                        605,000mil  716,000mil 605,000mil  686,000mil 
-C8         0.1uF               BottomLayer Cap0603         385,000mil    716,000mil    90       "CAP CER 0.1UF 50V Y5V 0603"                                        385,000mil  716,000mil 385,000mil  686,000mil 
-C7         0.1uF               BottomLayer Cap0603         809,000mil    78,000mil     90       "CAP CER 0.1UF 50V Y5V 0603"                                        809,000mil  78,000mil  809,000mil  48,000mil  
-C6         0.1uF               BottomLayer Cap0603         824,000mil    716,000mil    90       "CAP CER 0.1UF 50V Y5V 0603"                                        824,000mil  716,000mil 824,000mil  686,000mil 
-C5         0.1uF               BottomLayer Cap0603         587,000mil    77,000mil     90       "CAP CER 0.1UF 50V Y5V 0603"                                        587,000mil  77,000mil  587,000mil  47,000mil  
-C4         1uF                 BottomLayer Cap0603         476,500mil    411,000mil    180      "CAP CER 1UF 25V X5R 0603"                                          476,500mil  411,000mil 506,500mil  411,000mil 
-C3         0.1uF               BottomLayer Cap0603         476,500mil    361,000mil    180      "CAP CER 0.1UF 50V Y5V 0603"                                        476,500mil  361,000mil 506,500mil  361,000mil 
-C2         0.47uF              BottomLayer Cap0603         194,000mil    502,000mil    90       "CAP CER 0.47uF 50V X7R 0603"                                       194,000mil  502,000mil 194,000mil  472,000mil 
-C1         0.47uF              BottomLayer Cap0603         308,000mil    572,000mil    180      "CAP CER 0.47uF 50V X7R 0603"                                       308,000mil  572,000mil 338,000mil  572,000mil 
+Designator Layer    Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+J2         TopLayer 2,7178mm     6,0325mm     90       2,7178mm  6,0325mm  2,7178mm  0,9525mm  
+R2         TopLayer 24,2062mm    15,4940mm    0        24,2062mm 15,4940mm 23,4442mm 15,4940mm 
+U2         TopLayer 18,3261mm    9,1440mm     180      18,3261mm 9,1440mm  19,8261mm 8,3440mm  
+U1         TopLayer 10,6934mm    10,2616mm    180      10,6934mm 10,2616mm 11,8434mm 9,6116mm  
+SW4        TopLayer 14,7606mm    18,2118mm    180      14,7606mm 18,2118mm 16,6856mm 17,4618mm 
+SW3        TopLayer 7,8804mm     18,2118mm    180      7,8804mm  18,2118mm 9,8054mm  17,4618mm 
+SW2        TopLayer 21,6408mm    1,4224mm     180      21,6408mm 1,4224mm  23,5658mm 0,6724mm  
+SW5        TopLayer 21,6408mm    18,2118mm    180      21,6408mm 18,2118mm 23,5658mm 17,4618mm 
+SW1        TopLayer 14,7606mm    1,4224mm     180      14,7606mm 1,4224mm  16,6856mm 0,6724mm  
+R5         TopLayer 17,3228mm    15,4940mm    0        17,3228mm 15,4940mm 16,5608mm 15,4940mm 
+R4         TopLayer 10,5410mm    15,4940mm    180      10,5410mm 15,4940mm 11,3030mm 15,4940mm 
+R3         TopLayer 24,2062mm    4,1656mm     0        24,2062mm 4,1656mm  23,4442mm 4,1656mm  
+R1         TopLayer 17,3228mm    4,1656mm     180      17,3228mm 4,1656mm  18,0848mm 4,1656mm  
+P1         TopLayer 2,8448mm     17,2466mm    90       2,8448mm  15,9766mm 2,8448mm  15,9766mm 
+L1         TopLayer 23,7236mm    9,2202mm     90       23,7236mm 9,2202mm  23,7236mm 8,9452mm  
+J1         TopLayer 54,2798mm    9,9314mm     270      54,2798mm 12,4714mm 54,2798mm 12,4714mm 
+C10        TopLayer 56,0832mm    11,3030mm    90       56,0832mm 11,3030mm 56,0832mm 10,5410mm 
+C9         TopLayer 18,0848mm    18,2118mm    90       18,0848mm 18,2118mm 18,0848mm 17,4498mm 
+C8         TopLayer 11,2014mm    18,2118mm    90       11,2014mm 18,2118mm 11,2014mm 17,4498mm 
+C7         TopLayer 24,9682mm    1,4224mm     90       24,9682mm 1,4224mm  24,9682mm 0,6604mm  
+C6         TopLayer 24,9682mm    18,2118mm    90       24,9682mm 18,2118mm 24,9682mm 17,4498mm 
+C5         TopLayer 18,0848mm    1,4224mm     90       18,0848mm 1,4224mm  18,0848mm 0,6604mm  
+C4         TopLayer 22,7076mm    9,2964mm     270      22,7076mm 9,2964mm  22,7076mm 10,0584mm 
+C3         TopLayer 21,4630mm    9,2964mm     270      21,4630mm 9,2964mm  21,4630mm 10,0584mm 
+C2         TopLayer 13,1826mm    10,3886mm    90       13,1826mm 10,3886mm 13,1826mm 9,6266mm  
+C1         TopLayer 10,3124mm    12,1666mm    0        10,3124mm 12,1666mm 9,5504mm  12,1666mm 
