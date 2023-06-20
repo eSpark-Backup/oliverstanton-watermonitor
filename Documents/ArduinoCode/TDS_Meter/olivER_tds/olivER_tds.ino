@@ -37,6 +37,8 @@ void loop() {
   
   Serial.println("TDS1 = ");
   Serial.println(sensorValue2);
+
+  Serial.println("  ");
   
-  delay(500);        // delay in between reads for stability
+  delay(1000);        // delay in between reads for stability
 }

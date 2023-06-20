@@ -4,8 +4,7 @@ int relay2 = PC8;
 int relay3 = PE10;
 int relay4 = PA15;
 int relay5 = PD2;
-int mos_control = PD13;
-int mos_control2 = PD12;
+
 
 
 void setup () {
@@ -23,11 +22,6 @@ void setup () {
   pinMode(relay5 , OUTPUT);
   digitalWrite(relay5,LOW);
   
-  pinMode( mos_control, OUTPUT);
-  digitalWrite(mos_control,HIGH);
-  
-  pinMode( mos_control2, OUTPUT);
-  digitalWrite(mos_control2,HIGH);
 }
 
 void loop () {
@@ -51,9 +45,13 @@ void loop () {
    
    Serial.println("high is Button");
    digitalWrite(relay1,LOW);
+   delay(1000);
    digitalWrite(relay2,LOW);
+   delay(1000);
    digitalWrite(relay3,LOW);
+   delay(1000);
    digitalWrite(relay4,LOW);
+   delay(1000);
    digitalWrite(relay5,LOW);
    
    }
