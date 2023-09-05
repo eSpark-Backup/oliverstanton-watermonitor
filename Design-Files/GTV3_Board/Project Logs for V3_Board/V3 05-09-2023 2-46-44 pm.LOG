@@ -1,0 +1,233 @@
+Removed Pin From Net: NetName=GND Pin=C86-1
+Removed Pin From Net: NetName=GND Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=Q22-3
+Removed Pin From Net: NetName=GND Pin=Q39-2
+Removed Pin From Net: NetName=GND Pin=R124-2
+Removed Pin From Net: NetName=GND Pin=R125-1
+Removed Pin From Net: NetName=GND Pin=R129-1
+Removed Pin From Net: NetName=VCC#M Pin=SB1-1
+Removed Pin From Net: NetName=VBAT Pin=SB1-2
+Removed Pin From Net: NetName=NetJ5_1 Pin=SB11-1
+Removed Pin From Net: NetName=NetJ5_2 Pin=SB13-1
+Removed Pin From Net: NetName=V1_1 Pin=SB13-2
+Removed Pin From Net: NetName=NetJ6_1 Pin=SB15-1
+Removed Pin From Net: NetName=NetJ6_2 Pin=SB22-1
+Removed Pin From Net: NetName=NetJ7_1 Pin=SB24-1
+Removed Pin From Net: NetName=NetJ7_2 Pin=SB26-1
+Removed Pin From Net: NetName=NetJ8_1 Pin=SB28-1
+Removed Pin From Net: NetName=NetJ8_2 Pin=SB30-1
+Removed Pin From Net: NetName=V4_1 Pin=SB30-2
+Removed Pin From Net: NetName=GND Pin=U19-7
+Removed Pin From Net: NetName=GND Pin=U19-17
+Removed Pin From Net: NetName=GND Pin=U19-17
+Removed Pin From Net: NetName=GND Pin=U19-17
+Removed Pin From Net: NetName=GND Pin=U19-17
+Removed Pin From Net: NetName=GND Pin=U19-17
+Removed Member From Class: ClassName=U_Temperature_Sense_Section Member=R31
+Change Footprint: Footprint Not Found LED-0402
+Change Footprint: Footprint Not Found Res-0402
+Change Component Comment : Designator=R129 Old Comment=100K New Comment=86.6K
+Change Component Comment : Designator=LED10 Old Comment=Blue New Comment=Green
+Change component parameters: Designator = "LED10" ("LED10"); Footprint = "LED-0603"; UniqueID = "\PGFDDEGJ\DRTAGHUE\AAHWTKSM" ("\PGFDDEGJ\DRTAGHUE\AAHWTKSM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Everlight-Elec-16-213-GHC-YR1S1-3T_C74338.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dominant Wavelength / Coordinate rank"; Value = "520~535nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C74338"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity (IF=20mA)"; Value = "112~285mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Everlight Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "16-213/GHC-YR1S1/3T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R129" ("R129"); Footprint = "Res-0603"; UniqueID = "\PGFDDEGJ\DRTAGHUE\TQEMHCSZ" ("\PGFDDEGJ\DRTAGHUE\TQEMHCSZ")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2582/pyu-rt-1-to-0-05-rohs-l-5-2582513.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2582/pyu-rt-1-to-0-05-rohs-l-5-2582513.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.014inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C852935"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.039inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0402BRD0786K6L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0.38, 10=0.323, 50=0.1704, 100=0.1263, 500=0.07636, 1000=0.05287, 5000=0.04406 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "RT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "2259"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "13-RT0402BRD0786K6LCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "25ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "86.6kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOD-123
+Add Component: Footprint Not Found SOD-123
+Add Component: Footprint Not Found SOD-123
+Add Component: Footprint Not Found SOD-123
+Add Component: Footprint Not Found SOD-123
+Add Component: Footprint Not Found SOD-123
+Add Component: Footprint Not Found SOD-123
+Add Component: Footprint Not Found RES-2512
+Add Component: Footprint Not Found RES-2512
+Added Pin To Net: NetName=VCC Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=VCC Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C62-2
+Added Pin To Net: NetName=VCC Pin=C64-1
+Added Pin To Net: NetName=GND Pin=C64-2
+Added Pin To Net: NetName=VCC Pin=C66-1
+Added Pin To Net: NetName=GND Pin=C66-2
+Add Pin To Net: Unknown Pin: Pin D20-1
+Add Pin To Net: Unknown Pin: Pin D20-2
+Add Pin To Net: Unknown Pin: Pin D21-1
+Add Pin To Net: Unknown Pin: Pin D21-2
+Add Pin To Net: Unknown Pin: Pin D22-1
+Add Pin To Net: Unknown Pin: Pin D22-2
+Add Pin To Net: Unknown Pin: Pin D23-1
+Add Pin To Net: Unknown Pin: Pin D23-2
+Add Pin To Net: Unknown Pin: Pin D24-1
+Add Pin To Net: Unknown Pin: Pin D24-2
+Add Pin To Net: Unknown Pin: Pin D25-1
+Add Pin To Net: Unknown Pin: Pin D25-2
+Add Pin To Net: Unknown Pin: Pin D26-1
+Add Pin To Net: Unknown Pin: Pin D26-2
+Added Pin To Net: NetName=MEM_CNTRL Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=MEM_SAVER Pin=Q1-3
+Added Pin To Net: NetName=PM_CNTRL Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=PROP_MIXING Pin=Q3-3
+Added Pin To Net: NetName=FILL_CNTRL Pin=Q22-1
+Added Pin To Net: NetName=GND Pin=Q22-2
+Added Pin To Net: NetName=AUTO_FILL Pin=Q22-3
+Added Pin To Net: NetName=FLUSH_CNTRL Pin=Q23-1
+Added Pin To Net: NetName=GND Pin=Q23-2
+Added Pin To Net: NetName=AUTO_FLUSH Pin=Q23-3
+Added Pin To Net: NetName=MEM_CNTRL Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=PM_CNTRL Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=FILL_CNTRL Pin=R69-1
+Added Pin To Net: NetName=GND Pin=R69-2
+Added Pin To Net: NetName=FLUSH_CNTRL Pin=R70-1
+Added Pin To Net: NetName=GND Pin=R70-2
+Add Pin To Net: Unknown Pin: Pin R148-2
+Add Pin To Net: Unknown Pin: Pin R149-1
+Add Pin To Net: Unknown Pin: Pin R149-2
+Added Pin To Net: NetName=V1_1 Pin=SB10-1
+Added Pin To Net: NetName=NetJ5_1 Pin=SB10-2
+Added Pin To Net: NetName=VCC Pin=SB11-1
+Added Pin To Net: NetName=NetJ5_1 Pin=SB11-2
+Added Pin To Net: NetName=AUTO_FILL Pin=SB12-1
+Added Pin To Net: NetName=NetJ5_2 Pin=SB12-2
+Added Pin To Net: NetName=V1_2 Pin=SB13-1
+Added Pin To Net: NetName=NetJ5_2 Pin=SB13-2
+Added Pin To Net: NetName=V2_1 Pin=SB14-1
+Added Pin To Net: NetName=NetJ6_1 Pin=SB14-2
+Added Pin To Net: NetName=VCC Pin=SB15-1
+Added Pin To Net: NetName=NetJ6_1 Pin=SB15-2
+Added Pin To Net: NetName=AUTO_FLUSH Pin=SB21-1
+Added Pin To Net: NetName=NetJ6_2 Pin=SB21-2
+Added Pin To Net: NetName=V2_2 Pin=SB22-1
+Added Pin To Net: NetName=NetJ6_2 Pin=SB22-2
+Added Pin To Net: NetName=V3_1 Pin=SB23-1
+Added Pin To Net: NetName=NetJ7_1 Pin=SB23-2
+Added Pin To Net: NetName=VCC Pin=SB24-1
+Added Pin To Net: NetName=NetJ7_1 Pin=SB24-2
+Added Pin To Net: NetName=MEM_SAVER Pin=SB25-1
+Added Pin To Net: NetName=NetJ7_2 Pin=SB25-2
+Added Pin To Net: NetName=V3_2 Pin=SB26-1
+Added Pin To Net: NetName=NetJ7_2 Pin=SB26-2
+Added Pin To Net: NetName=V4_1 Pin=SB27-1
+Added Pin To Net: NetName=NetJ8_1 Pin=SB27-2
+Added Pin To Net: NetName=VCC Pin=SB28-1
+Added Pin To Net: NetName=NetJ8_1 Pin=SB28-2
+Added Pin To Net: NetName=PROP_MIXING Pin=SB29-1
+Added Pin To Net: NetName=NetJ8_2 Pin=SB29-2
+Added Pin To Net: NetName=V4_2 Pin=SB30-1
+Added Pin To Net: NetName=NetJ8_2 Pin=SB30-2
+Added Pin To Net: NetName=VREF Pin=U19-7
+Change Net Name : Old Net Name=VBAT New Net Name=BAT
+Added Pin To Net: NetName=AGND Pin=C86-1
+Added Pin To Net: NetName=AGND Pin=Q39-2
+Added Pin To Net: NetName=AGND Pin=R124-2
+Added Pin To Net: NetName=AGND Pin=R125-1
+Added Pin To Net: NetName=AGND Pin=R129-1
+Added Pin To Net: NetName=AGND Pin=U19-17
+Added Pin To Net: NetName=AGND Pin=U19-17
+Added Pin To Net: NetName=AGND Pin=U19-17
+Added Pin To Net: NetName=AGND Pin=U19-17
+Added Pin To Net: NetName=AGND Pin=U19-17
+Added Net: Name=AGND
+Added Member To Class: ClassName=U_Valve_Section Member=Component C25 0.1uF
+Added Member To Class: ClassName=U_Valve_Section Member=Component C62 0.1uF
+Added Member To Class: ClassName=U_Valve_Section Member=Component C64 0.1uF
+Added Member To Class: ClassName=U_Valve_Section Member=Component C66 0.1uF
+Added Member To Class: ClassName=U_Solar_Charge_Controller Member=Component D15 ZLLS350TA
+Add Class Member: Failed to add class member : Component D20 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D21 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D22 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D23 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D24 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D25 1N4148W-7-F
+Add Class Member: Failed to add class member : Component D26 1N4148W-7-F
+Added Member To Class: ClassName=U_Solar_Charge_Controller Member=Component LED9 RED
+Added Member To Class: ClassName=U_Valve_Section Member=Component Q1 DMN13H750S-7
+Added Member To Class: ClassName=U_Valve_Section Member=Component Q3 DMN13H750S-7
+Added Member To Class: ClassName=U_Valve_Section Member=Component Q22 DMN13H750S-7
+Added Member To Class: ClassName=U_Valve_Section Member=Component Q23 DMN13H750S-7
+Added Member To Class: ClassName=U_Valve_Section Member=Component R4 10K
+Added Member To Class: ClassName=U_Valve_Section Member=Component R6 10K
+Added Member To Class: ClassName=U_Controller_Section Member=Component R31 4.7K
+Added Member To Class: ClassName=U_Valve_Section Member=Component R69 10K
+Added Member To Class: ClassName=U_Valve_Section Member=Component R70 10K
+Add Class Member: Failed to add class member : Component R148 0R
+Add Class Member: Failed to add class member : Component R149 0R
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB10 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB11 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB12 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB13 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB14 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB15 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB21 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB22 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB23 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB24 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB25 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB26 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB27 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB28 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB29 Solder Bridge
+Added Member To Class: ClassName=U_Valve_Section Member=Component SB30 Solder Bridge
+Added Room: Name=U_Connector_Section
+Added Room: Name=U_Controller_Section
+Added Room: Name=U_Current_Sense_Section
+Added Room: Name=U_Gate_Driver_Section
+Added Room: Name=U_GSM_Sheet
+Added Room: Name=U_Heater_Section
+Added Room: Name=U_HMI_Encoder_Sheet
+Added Room: Name=U_LED_Section
+Added Room: Name=U_Receiver_Section
+Added Room: Name=U_Regulator_Section
+Added Room: Name=U_Reverse Protection_Section
+Added Room: Name=U_Sensor_Section
+Added Room: Name=U_Solar_Charge_Controller
+Added Room: Name=U_Switch_Sheet
+Added Room: Name=U_Temperature_Sense_Section
+Added Room: Name=U_Valve_Section
+Added Room: Name=U_Voltage_Monitoring_Section
