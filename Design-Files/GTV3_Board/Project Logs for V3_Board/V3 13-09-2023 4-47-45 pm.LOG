@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=J18 Old Footprint=DW254W-11-04-85 New Footprint=HDR1X4 Female
+Change Component Comment : Designator=J18 Old Comment=XY-MK-5V Module New Comment=C2718488
+Change component parameters: Designator = "J18" ("J18"); Footprint = "DW254W-11-04-85"; UniqueID = "\HQUMBKCD\OCFMLVTE" ("\HQUMBKCD\OCFMLVTE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Female-Headers_BOOMELE-Boom-Precision-Elec-C2718488_C2718488.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2718488"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BOOMELE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C2718488"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Plugin,P=2.54mm"; VariantName = "[No Variations]"
