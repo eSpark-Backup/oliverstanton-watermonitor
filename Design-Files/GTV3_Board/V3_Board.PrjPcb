@@ -336,7 +336,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document18]
-DocumentPath=V3.2_Board.PcbDoc
+DocumentPath=..\..\..\..\..\..\Desktop\V3.2_Board(2).PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -690,7 +690,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XGBEHQHN
+DocumentUniqueId=QIQDLFVP
+
+[Document39]
+DocumentPath=V3.2_Board.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ESGBPUJE
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for V3_Board\Pick Place for V3_Board.csv

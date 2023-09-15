@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=FLOW_MCU2 Pin=U5-3
+Removed Pin From Net: NetName=FLOW_MCU3 Pin=U5-4
+Removed Pin From Net: NetName=MEM_CNTRL Pin=U5-58
+Removed Pin From Net: NetName=PM_CNTRL Pin=U5-59
+Removed Pin From Net: NetName=RS_CNTRL Pin=U5-60
+Removed Pin From Net: NetName=LEVEL_MCU Pin=U5-84
+Added Pin To Net: NetName=FLOW_MCU2 Pin=U5-58
+Added Pin To Net: NetName=FLOW_MCU3 Pin=U5-59
+Added Pin To Net: NetName=LEVEL_MCU Pin=U5-60
+Added Member To Class: ClassName=U_Solar_Charge_Controller Member=Component C80 1uF
+Added Member To Class: ClassName=U_LED_Section Member=Component R73 10K
+Added Member To Class: ClassName=U_Solar_Charge_Controller Member=Component R120 4mR
+Added Member To Class: ClassName=U_Solar_Charge_Controller Member=Component U18 AP4008QD
