@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CE Pin=U5-11
+Removed Pin From Net: NetName=SHDN Pin=U5-89
+Added Pin To Net: NetName=SHDN Pin=U5-15
+Added Pin To Net: NetName=CE Pin=U5-16
