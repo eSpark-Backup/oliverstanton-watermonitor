@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC#12 Pin=J22-7
+Removed Pin From Net: NetName=VCC#12 Pin=J22-8
+Added Pin To Net: NetName=VCC Pin=J22-7
+Added Pin To Net: NetName=VCC Pin=J22-8
+Added Member To Class: ClassName=U_Current_Sense_Section Member=Component U2 ACS723LLCTR-20AU-T
