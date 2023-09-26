@@ -574,7 +574,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FUAYYSNU
 
 [Document32]
-DocumentPath=HMI_Encoder_Sheet.SchDoc
+DocumentPath=HMI_Encoder_NFC_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -591,7 +591,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KAWIZAQX
 
 [Document33]
-DocumentPath=HMI_Encoder_Sheet.Harness
+DocumentPath=HMI_Encoder_NFC_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
