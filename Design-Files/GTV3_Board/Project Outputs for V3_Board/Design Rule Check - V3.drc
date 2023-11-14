@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\OliverStanton-WaterMonitor\Design-Files\GTV3_Board\V3.2_Board.PcbDoc
-Date     : 26/09/2023
-Time     : 3:18:04 pm
+PCB File : C:\Users\eSpark\Desktop\OliverStanton-WaterMonitor\Design-Files\GTV3_Board\V3.2_Board.PcbDoc
+Date     : 11/14/2023
+Time     : 5:10:01 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -39,10 +39,13 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('USB_D'))
+Rule Violations :0
+
 Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('GSM_USB'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('USB_D'))
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('RS485'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
