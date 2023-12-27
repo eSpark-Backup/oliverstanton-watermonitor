@@ -1,0 +1,41 @@
+Add Component: Footprint Not Found Cap-0402
+Add Component: Footprint Not Found Cap-0402
+Add Component: Footprint Not Found Diode 0402
+Add Component: Footprint Not Found DM3BT-DSF-PEJS
+Add Component: Footprint Not Found VSSOP-8(2x2.3x0.5)
+Add Pin To Net: Unknown Pin: Pin C105-1
+Add Pin To Net: Unknown Pin: Pin C105-2
+Add Pin To Net: Unknown Pin: Pin C106-1
+Add Pin To Net: Unknown Pin: Pin C106-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin D13-1
+Add Pin To Net: Unknown Pin: Pin D13-2
+Add Pin To Net: Unknown Pin: Pin J30-2
+Add Pin To Net: Unknown Pin: Pin J30-3
+Add Pin To Net: Unknown Pin: Pin J30-4
+Add Pin To Net: Unknown Pin: Pin J30-5
+Add Pin To Net: Unknown Pin: Pin J30-6
+Add Pin To Net: Unknown Pin: Pin J30-7
+Add Pin To Net: Unknown Pin: Pin J30-S1
+Add Pin To Net: Unknown Pin: Pin J30-S2
+Add Pin To Net: Unknown Pin: Pin J30-S3
+Add Pin To Net: Unknown Pin: Pin J30-S4
+Add Pin To Net: Unknown Pin: Pin J30-SW-A
+Add Pin To Net: Unknown Pin: Pin J30-SW-B
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U26-5
+Add Pin To Net: Unknown Pin: Pin U26-6
+Add Pin To Net: Unknown Pin: Pin U26-7
+Add Pin To Net: Unknown Pin: Pin U26-8
+Add Class Member: Failed to add class member : Component C105 0.1uf
+Add Class Member: Failed to add class member : Component C106 0.1uf
+Add Class Member: Failed to add class member : Component D9 LXES15AAA1-153
+Add Class Member: Failed to add class member : Component D13 TPESD0402G03V
+Add Class Member: Failed to add class member : Component J30 DM3BT-DSF-PEJS
+Add Class Member: Failed to add class member : Component U26 TXB0102DCUT
+Added Room: Name=U_Connector_Section
+Added Room: Name=U_Controller_Section

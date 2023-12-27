@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=I34_MicroSD_DET Pin=R161-1
+Removed Pin From Net: NetName=3V3 Pin=R161-2
+Removed Member From Class: ClassName=U_SD-Card-Sheet Member=R161
+Added Pin To Net: NetName=I34_MicroSD_DET Pin=D24-2
+Added Pin To Net: NetName=I34_MicroSD_DET Pin=R160-1

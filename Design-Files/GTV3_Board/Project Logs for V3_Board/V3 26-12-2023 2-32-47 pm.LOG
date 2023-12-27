@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=Q22 Old Footprint=SOT-723 New Footprint=SOT-23
+Change Component Footprint: Designator=Q23 Old Footprint=SOT-723 New Footprint=SOT-23
+Change Component Comment : Designator=Q22 Old Comment=MMBT2222A-7-F New Comment=
+Change Component Comment : Designator=Q23 Old Comment=MMBT2222A-7-F New Comment=
+Change Component Library : Designator=Q22 Old Library=eSpark_centralized_Library(2022).IntLib New Library=eSpark Libraries.IntLib
+Change Component Library : Designator=Q23 Old Library=eSpark_centralized_Library(2022).IntLib New Library=eSpark Libraries.IntLib
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin D13-1
+Add Pin To Net: Unknown Pin: Pin D13-2
+Add Class Member: Failed to add class member : Component D9
+Add Class Member: Failed to add class member : Component D13
