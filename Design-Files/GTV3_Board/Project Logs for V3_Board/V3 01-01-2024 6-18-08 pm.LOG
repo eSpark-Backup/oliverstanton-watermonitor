@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TDS_1 Pin=U21-27
+Removed Pin From Net: NetName=TDS_2 Pin=U21-34
+Added Pin To Net: NetName=TDS_2 Pin=U21-27
+Added Pin To Net: NetName=TDS_1 Pin=U21-34

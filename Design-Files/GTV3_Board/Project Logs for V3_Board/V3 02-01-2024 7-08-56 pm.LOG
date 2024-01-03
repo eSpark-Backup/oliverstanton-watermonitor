@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=HEAT_CNTRL Pin=U21-58
+Added Pin To Net: NetName=HEAT_CNTRL Pin=U21-93

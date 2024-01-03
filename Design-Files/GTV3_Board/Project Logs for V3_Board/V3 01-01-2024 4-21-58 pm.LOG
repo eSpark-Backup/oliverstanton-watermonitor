@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=AN1 Pin=U21-18
+Removed Pin From Net: NetName=TDS_8 Pin=U21-20
+Added Pin To Net: NetName=TDS_8 Pin=U21-18
+Added Pin To Net: NetName=AN1 Pin=U21-20
+Added Member To Class: ClassName=U_Valve_Section Member=Component Q1 WNM2016A-3/TR

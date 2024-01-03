@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LED_SIG.R_CNTRL Pin=U21-65
+Removed Pin From Net: NetName=G_CNTRL Pin=U21-66
+Added Pin To Net: NetName=G_CNTRL Pin=U21-65
+Added Pin To Net: NetName=LED_SIG.R_CNTRL Pin=U21-66
