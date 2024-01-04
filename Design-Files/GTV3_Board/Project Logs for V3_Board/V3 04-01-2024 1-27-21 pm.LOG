@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=P7 Old Footprint=TEST POINT New Footprint=Test-point - 0.5mm
+Change Component Footprint: Designator=P10 Old Footprint=TEST POINT New Footprint=Test-point - 0.5mm
+Change Component Comment : Designator=P7 Old Comment=Test Point New Comment=TEST POINT 0.5mm Dia
+Change Component Comment : Designator=P10 Old Comment=Test Point New Comment=TEST POINT 0.5mm Dia
+Change component parameters: Designator = "P7" ("P7"); Footprint = "TEST POINT"; UniqueID = "\PGFDDEGJ\NQHTTNDX\BZTZCPDN" ("\PGFDDEGJ\NQHTTNDX\BZTZCPDN")
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P10" ("P10"); Footprint = "TEST POINT"; UniqueID = "\PGFDDEGJ\NQHTTNDX\MVCAMIMM" ("\PGFDDEGJ\NQHTTNDX\MVCAMIMM")
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=P1(Test-point - 0.5mm)
+Add component (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=P9(Test-point - 0.5mm)
+Add component (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=GSM_PWR Pin=P9-1
+Added Member To Class: ClassName=U_Regulator_Section Member=Component P1 TEST POINT 0.5mm Dia
+Added Member To Class: ClassName=U_Regulator_Section Member=Component P9 TEST POINT 0.5mm Dia

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CRNT_VOUT.VIOUT2 Pin=U21-28
+Removed Pin From Net: NetName=CRNT_VOUT.VIOUT1 Pin=U21-29
+Added Pin To Net: NetName=CRNT_VOUT.VIOUT1 Pin=U21-28
+Added Pin To Net: NetName=CRNT_VOUT.VIOUT2 Pin=U21-29
