@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=IO_C13 Pin=U5-7
-Removed Pin From Net: NetName=IO_A11 Pin=U5-31
-Removed Pin From Net: NetName=IO_A12 Pin=U5-39
-Removed Pin From Net: NetName=ENC_SW Pin=U5-41
-Added Pin To Net: NetName=ENC_SW Pin=U5-39
-Added Pin To Net: NetName=IO_A12 Pin=U5-41
-Added Pin To Net: NetName=IO_A11 Pin=U5-51
-Added Pin To Net: NetName=IO_C13 Pin=U5-52

@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=ENA Pin=U5-80
-Removed Pin From Net: NetName=GATE_DRV.INB_1 Pin=U5-91
-Removed Pin From Net: NetName=GATE_DRV.INA_1 Pin=U5-95
-Added Pin To Net: NetName=ENA Pin=U5-7
-Added Pin To Net: NetName=GATE_DRV.INB_1 Pin=U5-11
-Added Pin To Net: NetName=GATE_DRV.INA_1 Pin=U5-19

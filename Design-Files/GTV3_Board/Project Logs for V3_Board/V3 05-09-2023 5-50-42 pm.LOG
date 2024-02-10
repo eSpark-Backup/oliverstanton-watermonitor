@@ -1,7 +1,0 @@
-Added Component: Designator=P9(TEST POINT)
-Added Component: Designator=P10(TEST POINT)
-Added Pin To Net: NetName=GSM_PWR Pin=P9-1
-Added Pin To Net: NetName=GND Pin=P10-1
-Added Member To Class: ClassName=U_Regulator_Section Member=Component P9 Test Point
-Added Member To Class: ClassName=U_Regulator_Section Member=Component P10 Test Point
-Added Member To Class: ClassName=U_Regulator_Section Member=Component R133 47K

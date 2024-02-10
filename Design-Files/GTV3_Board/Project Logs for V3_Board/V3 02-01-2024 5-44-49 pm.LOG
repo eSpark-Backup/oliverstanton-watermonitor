@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=SW_2 Pin=U21-114
-Removed Pin From Net: NetName=SW_1 Pin=U21-115
-Added Pin To Net: NetName=SW_1 Pin=U21-114
-Added Pin To Net: NetName=SW_2 Pin=U21-115

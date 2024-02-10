@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=VOUT_A Pin=J21-2
-Added Pin To Net: NetName=PS_PWR Pin=J20-1
-Added Pin To Net: NetName=NetJ20_2 Pin=J20-2
-Added Pin To Net: NetName=PSW_MCU Pin=J20-3
-Added Pin To Net: NetName=GND Pin=J20-4
-Added Pin To Net: NetName=S_VIN Pin=J21-1
-Added Pin To Net: NetName=GND Pin=J21-2
-Added Member To Class: ClassName=U_Connector_Section Member=Component J20 TBP01R1-508-04BE
-Added Member To Class: ClassName=U_Solar_Charge_Controller Member=Component J21 TBP01R1-508-02BE

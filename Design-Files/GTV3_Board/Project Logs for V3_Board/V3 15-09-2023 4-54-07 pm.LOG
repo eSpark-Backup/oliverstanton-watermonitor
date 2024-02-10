@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=FLOW_MCU1 Pin=U5-57
-Removed Pin From Net: NetName=FLOW_MCU3 Pin=U5-59
-Added Pin To Net: NetName=FLOW_MCU3 Pin=U5-57
-Added Pin To Net: NetName=FLOW_MCU1 Pin=U5-59

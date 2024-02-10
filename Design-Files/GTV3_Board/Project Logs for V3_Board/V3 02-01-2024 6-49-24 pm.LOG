@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=RS485/RS232/T.RXD/RS485/RS232/T Pin=U21-49
-Removed Pin From Net: NetName=RE/DE/RS485/T Pin=U21-50
-Removed Pin From Net: NetName=RS485/RS232/T.TXD/RS485/RS232/T Pin=U21-53
-Added Pin To Net: NetName=RS485/RS232/T.RXD/RS485/RS232/T Pin=U21-87
-Added Pin To Net: NetName=RE/DE/RS485/T Pin=U21-88
-Added Pin To Net: NetName=RS485/RS232/T.TXD/RS485/RS232/T Pin=U21-89

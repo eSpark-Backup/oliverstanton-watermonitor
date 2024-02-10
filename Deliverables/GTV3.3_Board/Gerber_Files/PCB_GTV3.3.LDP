@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\XPENDER\Documents\GitHub\OliverStanton-WaterMonitor\Design-Files\GTV3_Board\PCB_GTV3.3.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_gtv3.3-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_gtv3.3-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=pcb_gtv3.3-rectholes.txt|DrillLayers=gtl,gp1,gp2,gbl

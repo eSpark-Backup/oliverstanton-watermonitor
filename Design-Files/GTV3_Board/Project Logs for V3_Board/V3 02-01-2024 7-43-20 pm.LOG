@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=GSM_USB_D_P Pin=D18-1
-Removed Pin From Net: NetName=GSM_USB_D_N Pin=D18-2
-Added Pin To Net: NetName=GSM_USB_D_N Pin=D18-1
-Added Pin To Net: NetName=GSM_USB_D_P Pin=D18-2
-Added Rule: Name=Schematic Impedance Constraint_1
-Added Rule: Name=Schematic Matched Net Lengths_1

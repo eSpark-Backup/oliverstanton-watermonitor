@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [GTV3.3_Board.PrjPcb]
+   Generated File[PCB_GTV3.3-RoundHoles.TXT]
+   Generated File[PCB_GTV3.3-SlotHoles.TXT]
+   Generated File[PCB_GTV3.3-RectHoles.TXT]
+   Generated File[PCB_GTV3.3.LDP]
+   Generated File[PCB_GTV3.3.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 9:01:18 AM On 2/10/2024

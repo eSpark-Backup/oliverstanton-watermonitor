@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=MCU_TX Pin=U5-86
-Removed Pin From Net: NetName=MCU_RX Pin=U5-87
-Removed Pin From Net: NetName=HMI_UART.RX_HMI Pin=U5-92
-Removed Pin From Net: NetName=HMI_UART.TX_HMI Pin=U5-93
-Added Pin To Net: NetName=HMI_UART.RX_HMI Pin=U5-86
-Added Pin To Net: NetName=HMI_UART.TX_HMI Pin=U5-87
-Added Pin To Net: NetName=MCU_TX Pin=U5-92
-Added Pin To Net: NetName=MCU_RX Pin=U5-93

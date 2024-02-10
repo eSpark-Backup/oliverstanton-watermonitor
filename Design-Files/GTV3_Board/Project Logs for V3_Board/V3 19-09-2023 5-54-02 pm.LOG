@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=GSM_RST Pin=U5-10
-Removed Pin From Net: NetName=GATE_DRV.INA_1 Pin=U5-19
-Removed Pin From Net: NetName=GSM_PWR_EN Pin=U5-73
-Added Pin To Net: NetName=GATE_DRV.INA_1 Pin=U5-10
-Added Pin To Net: NetName=GSM_PWR_EN Pin=U5-97
-Added Pin To Net: NetName=GSM_RST Pin=U5-98
