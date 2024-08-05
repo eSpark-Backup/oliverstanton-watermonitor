@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=Transmitter_Section.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Power_Sheet.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Power_Sheet.SchDoc|FileName=Top_Sheet.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Power_Sheet.SchDoc|FileName=Transmitter_Section.SchDoc|SheetNumber=3
