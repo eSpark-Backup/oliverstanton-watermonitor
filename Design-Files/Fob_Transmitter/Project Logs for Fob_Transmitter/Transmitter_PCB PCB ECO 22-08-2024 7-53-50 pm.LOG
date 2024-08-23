@@ -1,0 +1,36 @@
+Change Component Footprint: Designator=C10 Old Footprint=VZH102M1HTR-1616 New Footprint=RVT1A101M0605
+Change Component Comment : Designator=C10 Old Comment=1000uF New Comment=100uF
+Change component parameters: Designator = "C10" ("C10"); Footprint = "VZH102M1HTR-1616"; UniqueID = "\TKJARUDC\LSFPGEVT" ("\TKJARUDC\LSFPGEVT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-RVT1A101M0605_C72474.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C72474"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ROQANG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RVT1A101M0605"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,D6.3xL5.4mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Cap0603
+Added Component: Designator=C34(RVT1A101M0605)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-RVT1A101M0605_C72474.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C72474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROQANG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RVT1A101M0605"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,D6.3xL5.4mm"; VariantName = "[No Variations]"
+Added Component: Designator=C35(RVT1A101M0605)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-RVT1A101M0605_C72474.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C72474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROQANG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RVT1A101M0605"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,D6.3xL5.4mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C33-1
+Add Pin To Net: Unknown Pin: Pin C33-2
+Added Pin To Net: NetName=NetC1_1 Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=NetC1_1 Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Add Class Member: Failed to add class member : Component C33 0.47uF
+Added Member To Class: ClassName=U_Transmitter_Section Member=Component C34 100uF
+Added Member To Class: ClassName=U_Transmitter_Section Member=Component C35 100uF
