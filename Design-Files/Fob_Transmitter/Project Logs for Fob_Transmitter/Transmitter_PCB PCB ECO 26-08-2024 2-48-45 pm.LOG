@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=SW3-2
+Removed Pin From Net: NetName=GND Pin=SW3-2
+Removed Pin From Net: NetName=GND Pin=SW4-2
+Removed Pin From Net: NetName=GND Pin=SW4-2
+Change Footprint: Cannot match pads with new footprint in component :SW1 Footprint:TSA016A2518A
+Change Footprint: Cannot match pads with new footprint in component :SW2 Footprint:TSA016A2518A
+Change Footprint: Cannot match pads with new footprint in component :SW3 Footprint:TSA016A2518A
+Change Footprint: Cannot match pads with new footprint in component :SW4 Footprint:TSA016A2518A
+Change Component Comment : Designator=SW1 Old Comment=TS-1185EC-C-D-B New Comment=TSA016A2518A
+Change Component Comment : Designator=SW2 Old Comment=TS-1185EC-C-D-B New Comment=TSA016A2518A
+Change Component Comment : Designator=SW3 Old Comment=TS-1185EC-C-D-B New Comment=TSA016A2518A
+Change Component Comment : Designator=SW4 Old Comment=TS-1185EC-C-D-B New Comment=TSA016A2518A
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "TS-1185EC-C-D-B"; UniqueID = "\TKJARUDC\HRZFGXMX" ("\TKJARUDC\HRZFGXMX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/Bzcn-TSA016A2518A/C2888427"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Tactile Switch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2888427"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BZCN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TSA016A2518A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "TS-1185EC-C-D-B"; UniqueID = "\TKJARUDC\SWXPGEEM" ("\TKJARUDC\SWXPGEEM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/Bzcn-TSA016A2518A/C2888427"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Tactile Switch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2888427"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BZCN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TSA016A2518A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "TS-1185EC-C-D-B"; UniqueID = "\TKJARUDC\WVBNXCPN" ("\TKJARUDC\WVBNXCPN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/Bzcn-TSA016A2518A/C2888427"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Tactile Switch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2888427"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BZCN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TSA016A2518A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW4" ("SW4"); Footprint = "TS-1185EC-C-D-B"; UniqueID = "\TKJARUDC\PJKDCWAO" ("\TKJARUDC\PJKDCWAO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/Bzcn-TSA016A2518A/C2888427"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Tactile Switch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2888427"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BZCN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TSA016A2518A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BUTTON1 Pin=SW1-2
+Added Pin To Net: NetName=BUTTON1 Pin=SW1-2
+Add Pin To Net: Unknown Pin: Pin SW1-3
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Added Pin To Net: NetName=BUTTON2 Pin=SW2-2
+Added Pin To Net: NetName=BUTTON2 Pin=SW2-2
+Add Pin To Net: Unknown Pin: Pin SW2-3
+Add Pin To Net: Unknown Pin: Pin SW2-4
+Added Pin To Net: NetName=BUTTON3 Pin=SW3-2
+Added Pin To Net: NetName=BUTTON3 Pin=SW3-2
+Add Pin To Net: Unknown Pin: Pin SW3-3
+Add Pin To Net: Unknown Pin: Pin SW3-4
+Added Pin To Net: NetName=BUTTON4 Pin=SW4-2
+Added Pin To Net: NetName=BUTTON4 Pin=SW4-2
+Add Pin To Net: Unknown Pin: Pin SW4-3
+Add Pin To Net: Unknown Pin: Pin SW4-4
+Added Room: Name=U_Transmitter_Section

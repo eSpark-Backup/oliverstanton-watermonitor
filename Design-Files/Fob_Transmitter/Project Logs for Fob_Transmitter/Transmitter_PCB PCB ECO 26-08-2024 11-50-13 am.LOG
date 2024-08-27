@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=U3-22
+Removed Pin From Net: NetName=GND Pin=U3-23
+Removed Pin From Net: NetName=GND Pin=U3-24
+Removed Pin From Net: NetName=GND Pin=U3-25
+Removed Pin From Net: NetName=GND Pin=U3-26
+Removed Pin From Net: NetName=GND Pin=U3-27
+Removed Pin From Net: NetName=GND Pin=U3-28
+Removed Pin From Net: NetName=GND Pin=U3-29
+Added Component: Designator=U?(HC-12 Module SMD)
+Add component (AddParameter): Name = "Item Type"; Value = "Module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HC-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=RX Pin=U?-3
+Added Pin To Net: NetName=TX Pin=U?-4
+Added Pin To Net: NetName=SET Pin=U?-5
+Added Pin To Net: NetName=ANT Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Member To Class: ClassName=U_Transmitter_Section Member=Component U? HC-12 SMD
