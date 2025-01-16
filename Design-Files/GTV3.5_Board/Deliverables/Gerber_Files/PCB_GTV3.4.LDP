@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\eSpark-Consultants\OliverStanton-WaterMonitor\Design-Files\GTV3.4_Board\PCB_GTV3.4.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_gtv3.4-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_gtv3.4-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=pcb_gtv3.4-rectholes.txt|DrillLayers=gtl,g1,g2,gbl
