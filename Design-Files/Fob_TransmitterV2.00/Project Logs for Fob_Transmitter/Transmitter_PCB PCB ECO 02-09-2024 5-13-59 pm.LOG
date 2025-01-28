@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=J4 Old Footprint=PH-2A New Footprint=PH-2AW
+Change Component Comment : Designator=J4 Old Comment=PH-2A New Comment=PH-2AW
+Change component parameters: Designator = "J4" ("J4"); Footprint = "PH-2A"; UniqueID = "\TKJARUDC\ZVLAJVDB" ("\TKJARUDC\ZVLAJVDB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Wire-To-Board-Connector_HCTL-PH-2AW_C2908634.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Wire To Board Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2908634"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HCTL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PH-2AW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Push-Pull,P=2mm"; VariantName = "[No Variations]"

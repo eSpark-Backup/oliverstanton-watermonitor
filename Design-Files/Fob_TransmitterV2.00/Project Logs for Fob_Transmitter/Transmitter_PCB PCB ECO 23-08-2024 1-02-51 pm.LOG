@@ -1,0 +1,48 @@
+Added Component: Designator=U3(20-VQFN (3.5x4.5))
+Add component (AddParameter): Name = "Case/Package"; Value = "VQFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/6601/bq51013b-6601292.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/6601/bq51013b-6601292.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C55663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function"; Value = "Receiver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BQ51013BRHLR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=3.34, 10=3, 50=3, 100=2.46, 1000=1.76, 10000=1.67 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "4754"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=NetC21_1 Pin=U3-2
+Added Pin To Net: NetName=NetC23_2 Pin=U3-3
+Added Pin To Net: NetName=VCC Pin=U3-4
+Added Pin To Net: NetName=NetC21_2 Pin=U3-5
+Added Pin To Net: NetName=NetC22_2 Pin=U3-6
+Added Pin To Net: NetName=NetR8_2 Pin=U3-7
+Added Pin To Net: NetName=NetQ3_1 Pin=U3-8
+Added Pin To Net: NetName=VUSB Pin=U3-9
+Added Pin To Net: NetName=EN1 Pin=U3-10
+Added Pin To Net: NetName=EN2 Pin=U3-11
+Added Pin To Net: NetName=NetR22_1 Pin=U3-12
+Added Pin To Net: NetName=NetR25_1 Pin=U3-13
+Added Pin To Net: NetName=ILIM Pin=U3-14
+Added Pin To Net: NetName=NetC30_2 Pin=U3-15
+Added Pin To Net: NetName=NetC31_2 Pin=U3-16
+Added Pin To Net: NetName=NetC29_2 Pin=U3-17
+Added Pin To Net: NetName=RECT Pin=U3-18
+Added Pin To Net: NetName=NetC26_1 Pin=U3-19
+Added Pin To Net: NetName=GND Pin=U3-20
+Added Pin To Net: NetName=GND Pin=U3-21
+Added Member To Class: ClassName=U_Power_Sheet Member=Component U3 BQ51013BRHLR
