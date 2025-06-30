@@ -322,7 +322,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
-DocumentPath=Sensor_Section.SchDoc
+DocumentPath=Level_Solinoide_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -356,7 +356,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EYBGJVIW
 
 [Document19]
-DocumentPath=Sensor_Section.Harness
+DocumentPath=Level_Solinoide_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -407,7 +407,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XBWWTKER
 
 [Document22]
-DocumentPath=Connector_Section.SchDoc
+DocumentPath=Onboard_Sensor_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -424,7 +424,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XWLZITAF
 
 [Document23]
-DocumentPath=Connector_Section.Harness
+DocumentPath=Onboard_Sensor_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -645,40 +645,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document36]
-DocumentPath=Deliverables\Gerber_Files\Gerber File.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document37]
-DocumentPath=Deliverables\Gerber_Files\NC Drill File.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document38]
 DocumentPath=WIFI_Display_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
