@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=U_Regulator_Section Member=C16
+Removed Member From Class: ClassName=U_Current_Sense_Section Member=C18
+Add Component: Footprint Not Found SOD-882
+Add Component: Footprint Not Found SOD-882
+Add Component: Footprint Not Found SOD-882
+Add Component: Footprint Not Found SOD-882
+Add Component: Footprint Not Found SOD-882
+Add Pin To Net: Unknown Pin: Pin D20-1
+Add Pin To Net: Unknown Pin: Pin D20-2
+Add Pin To Net: Unknown Pin: Pin D21-1
+Add Pin To Net: Unknown Pin: Pin D21-2
+Add Pin To Net: Unknown Pin: Pin D22-1
+Add Pin To Net: Unknown Pin: Pin D22-2
+Add Pin To Net: Unknown Pin: Pin D23-1
+Add Pin To Net: Unknown Pin: Pin D23-2
+Add Pin To Net: Unknown Pin: Pin D24-1
+Add Pin To Net: Unknown Pin: Pin D24-2
+Add Net: Net with name "FLOW_MCU1" already exists
+Add Net: Net with name "FLOW_MCU2" already exists
+Add Net: Net with name "FLOW_MCU3" already exists
+Add Net: Net with name "FLUSH_CNTRL" already exists
+Add Net: Net with name "MEM_CNTRL" already exists
+Add Net: Net with name "RS_CNTRL" already exists
+Add Class Member: Failed to add class member : Component D20 LESD8D3.3CAT5G
+Add Class Member: Failed to add class member : Component D21 LESD8D3.3CAT5G
+Add Class Member: Failed to add class member : Component D22 LESD8D3.3CAT5G
+Add Class Member: Failed to add class member : Component D23 LESD8D3.3CAT5G
+Add Class Member: Failed to add class member : Component D24 LESD8D3.3CAT5G
