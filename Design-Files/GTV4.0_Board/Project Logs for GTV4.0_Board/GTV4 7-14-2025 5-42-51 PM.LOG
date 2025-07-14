@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=J34 Old Footprint=HDR1X4_ New Footprint=TBP01R1-508-04BE
+Change Component Footprint: Designator=J38 Old Footprint=HDR1X4_ New Footprint=TBP01R1-508-04BE
+Change Component Footprint: Designator=J2 Old Footprint=TBP01R1-508-02BE New Footprint=DB135-10.16-2P-GN-P
+Change Component Comment : Designator=J2 Old Comment=TBP01R1-508-02BE New Comment=DB135-10.16-2P-GN-P
+Change Component Comment : Designator=J34 Old Comment=X6511WV-04H-C60D30 New Comment=TBP01R1-508-04BE
+Change Component Comment : Designator=J38 Old Comment=X6511WV-04H-C60D30 New Comment=TBP01R1-508-04BE
+Change component parameters: Designator = "J2" ("J2"); Footprint = "TBP01R1-508-02BE"; UniqueID = "\PGFDDEGJ\HMBLDIBD\BFBZSRZC" ("\PGFDDEGJ\HMBLDIBD\BFBZSRZC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Screw-Terminal-Blocks_DORABO-DB135-10-16-2P-GN-P_C2981775.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Terminal Block"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2981775"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "DORABO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "DB135-10.16-2P-GN-P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "P=10.16mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J34" ("J34"); Footprint = "HDR1X4_"; UniqueID = "\UVJUHQMU\ITLEENZH" ("\UVJUHQMU\ITLEENZH")
+Change component parameters (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TBP01R1-508-04BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.77380, 10=0.29040, 25=0.28750, 50=0.25070, 200=0.24820, 400=0.24580, 600=0.22570 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "697"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "TBP01R1-508-04BE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J38" ("J38"); Footprint = "HDR1X4_"; UniqueID = "\UVJUHQMU\GNMBIUCT" ("\UVJUHQMU\GNMBIUCT")
+Change component parameters (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TBP01R1-508-04BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.77380, 10=0.29040, 25=0.28750, 50=0.25070, 200=0.24820, 400=0.24580, 600=0.22570 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "697"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "TBP01R1-508-04BE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C56-2
+Added Pin To Net: NetName=VCC Pin=C64-2
+Added Pin To Net: NetName=VCC Pin=U15-1
+Added Pin To Net: NetName=VCC Pin=U16-1
+Added Member To Class: ClassName=U_Regulator_Section Member=Component R63 47K
