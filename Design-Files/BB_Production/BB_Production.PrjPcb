@@ -168,6 +168,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAIWPTIR
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BB_Production\Design Rule Check - BB_Production.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
