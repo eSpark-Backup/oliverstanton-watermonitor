@@ -202,6 +202,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAIWPTIR
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Smart_Connect_Board\Design Rule Check - Smart_Connect_Board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
