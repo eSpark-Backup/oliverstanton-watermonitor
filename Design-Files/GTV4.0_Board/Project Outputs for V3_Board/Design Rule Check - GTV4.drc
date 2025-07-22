@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\eSpark-Consultants\OliverStanton-WaterMonitor\Design-Files\GTV4.0_Board\GTV4.0.PcbDoc
-Date     : 7/19/2025
-Time     : 12:36:42 PM
+Date     : 7/22/2025
+Time     : 1:08:04 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (InDifferentialPair('USB_D')),(All)
 Rule Violations :0
