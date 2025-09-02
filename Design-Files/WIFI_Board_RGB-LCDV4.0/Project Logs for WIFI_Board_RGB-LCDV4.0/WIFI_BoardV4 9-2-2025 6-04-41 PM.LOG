@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=LCD_B5 Pin=U1-31
+Removed Pin From Net: NetName=LCD_PCLK Pin=U1-32
+Removed Pin From Net: NetName=LCD_VSYNC Pin=U1-34
+Removed Pin From Net: NetName=LCD_DE Pin=U1-35
+Removed Pin From Net: NetName=LCD_B7 Pin=U1-39
+Added Pin To Net: NetName=LCD_DE Pin=U1-31
+Added Pin To Net: NetName=LCD_VSYNC Pin=U1-32
+Added Pin To Net: NetName=LCD_PCLK Pin=U1-34
+Added Pin To Net: NetName=LCD_B7 Pin=U1-35
+Added Pin To Net: NetName=LCD_B5 Pin=U1-39

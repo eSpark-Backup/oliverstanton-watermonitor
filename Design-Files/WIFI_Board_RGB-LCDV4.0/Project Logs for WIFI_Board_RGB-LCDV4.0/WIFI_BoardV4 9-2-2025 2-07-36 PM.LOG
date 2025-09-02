@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=BTN_2 Pin=C14-2
+Removed Pin From Net: NetName=BTN_2 Pin=D7-2
+Removed Pin From Net: NetName=BTN_2 Pin=R21-1
+Removed Pin From Net: NetName=BTN_2 Pin=SW6-1
+Removed Pin From Net: NetName=BTN_2 Pin=SW6-2
+Removed Pin From Net: NetName=BTN_2 Pin=U7-23
+Change Component Footprint: Designator=J3 Old Footprint=AFC07-S40ECA-00 New Footprint=AFC07-S40FCA-00
+Change Component Comment : Designator=J3 Old Comment=AFC07-S40ECA-00 New Comment=AFC07-S40FCA-00
+Change component parameters: Designator = "J3" ("J3"); Footprint = "AFC07-S40ECA-00"; UniqueID = "\STOQBSLM" ("\STOQBSLM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C262572.html?s_z=n_AFC07-S40FCA-00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "FFC/FPC Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C262572"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JUSHUO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "AFC07-S40FCA-00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BTN_3 Pin=C14-2
+Added Pin To Net: NetName=BTN_3 Pin=D7-2
+Added Pin To Net: NetName=BTN_3 Pin=R21-1
+Added Pin To Net: NetName=BTN_3 Pin=SW6-1
+Added Pin To Net: NetName=BTN_3 Pin=SW6-2
+Added Pin To Net: NetName=BTN_3 Pin=U7-23
+Added Net: Name=BTN_3
