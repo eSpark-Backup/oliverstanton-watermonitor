@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [WIFI_Board_RGB-LCDV4.0.PrjPcb]
+   Generated File[WIFI_BoardV4.10-RoundHoles.TXT]
+   Generated File[WIFI_BoardV4.10-SlotHoles.TXT]
+   Generated File[WIFI_BoardV4.10.LDP]
+   Generated File[WIFI_BoardV4.10.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 7:30:18 PM On 9/4/2025

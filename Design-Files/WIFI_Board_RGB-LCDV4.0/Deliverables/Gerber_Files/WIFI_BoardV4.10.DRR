@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: WIFI_BoardV4.10.PcbDoc   9/4/2025  7:30:17 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : WIFI_BoardV4.10-RoundHoles.TXT
+ASCII SlotHoles File : WIFI_BoardV4.10-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             154       PTH        729.14mm (28.71inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        38.19mm (1.50inch)
+T3      0.914mm (36mil)                                           Round             3         PTH        7.11mm (0.28inch)
+T4      1.2mm (47mil)                                             Round             3         PTH        5.04mm (0.20inch)
+T5      2.2mm (87mil)                                             Slot              2         PTH        24.51mm (0.96inch)
+T6      3mm (118mil)                                              Round             4         PTH        317.50mm (12.50inch)
+T7      0.62mm (24mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              172
+
+Total Processing Time (hh:mm:ss) : 00:00:01
