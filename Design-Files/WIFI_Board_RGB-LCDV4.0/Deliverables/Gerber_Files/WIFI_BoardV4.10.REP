@@ -2,16 +2,144 @@
 FileName = WIFI_BoardV4.10.GBR
 AutoAperture = True
 *************************************************************
-Generating : Fabrication
-      File : WIFI_BoardV4.10.GM3
+Generating : Top Pad Master
+      File : WIFI_BoardV4.10.GPT
 
-    Adding Layer      : Fabrication
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
-    D123
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
     D153
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : WIFI_BoardV4.10.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : WIFI_BoardV4.10.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : WIFI_BoardV4.10.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : WIFI_BoardV4.10.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
 *************************************************************
 
 *************************************************************
@@ -23,44 +151,6 @@ Generating : Board Outline
 
 Used DCodes :
     D11
-*************************************************************
-
-*************************************************************
-Generating : Dimensions
-      File : WIFI_BoardV4.10.GM1
-
-    Adding Layer      : Dimensions
-
-
-Used DCodes :
-    D10
-    D11
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : WIFI_BoardV4.10.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D154
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : WIFI_BoardV4.10.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -118,24 +208,16 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : WIFI_BoardV4.10.GBS
+Generating : Dimensions
+      File : WIFI_BoardV4.10.GM1
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Dimensions
 
 
 Used DCodes :
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
+    D10
+    D11
+    D14
 *************************************************************
 
 *************************************************************
@@ -201,123 +283,20 @@ Used DCodes :
     D119
     D120
     D121
+    D122
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : WIFI_BoardV4.10.GBO
+Generating : Fabrication
+      File : WIFI_BoardV4.10.GM3
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Fabrication
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : WIFI_BoardV4.10.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
     D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : WIFI_BoardV4.10.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D146
-    D147
-    D148
-    D149
-    D150
-    D151
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : WIFI_BoardV4.10.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D146
-    D147
-    D148
-    D149
-    D150
-    D151
+    D124
+    D155
 *************************************************************
 
 *************************************************************
@@ -334,16 +313,17 @@ Used DCodes :
     D123
     D124
     D125
-    D126
     D127
     D128
-    D146
+    D129
     D147
     D148
     D149
     D150
     D151
     D152
+    D153
+    D154
 *************************************************************
 
 *************************************************************
@@ -397,7 +377,6 @@ Used DCodes :
     D68
     D69
     D70
-    D122
     D123
     D124
     D125
@@ -428,6 +407,33 @@ Used DCodes :
     D150
     D151
     D152
+    D153
+    D154
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : WIFI_BoardV4.10.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : WIFI_BoardV4.10.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D156
 *************************************************************
 
 *************************************************************
@@ -442,9 +448,9 @@ Generating : Drill Drawing
 Used DCodes :
     D10
     D11
-    D123
-    D155
-    D156
+    D124
+    D157
+    D158
 *************************************************************
 
 *************************************************************
@@ -466,6 +472,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D157
+    D159
 *************************************************************
 

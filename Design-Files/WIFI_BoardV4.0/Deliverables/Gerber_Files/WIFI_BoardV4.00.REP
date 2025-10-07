@@ -2,6 +2,53 @@
 FileName = WIFI_BoardV4.00.GBR
 AutoAperture = True
 *************************************************************
+Generating : Fabrication
+      File : WIFI_BoardV4.00.GM3
+
+    Adding Layer      : Fabrication
+
+
+Used DCodes :
+    D11
+    D110
+    D131
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : WIFI_BoardV4.00.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Dimensions
+      File : WIFI_BoardV4.00.GM1
+
+    Adding Layer      : Dimensions
+
+
+Used DCodes :
+    D11
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : WIFI_BoardV4.00.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D132
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : WIFI_BoardV4.00.GBP
 
@@ -16,8 +63,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : WIFI_BoardV4.00.GPT
+Generating : Top Paste
+      File : WIFI_BoardV4.00.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -59,69 +108,29 @@ Used DCodes :
     D59
     D60
     D61
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
 *************************************************************
 
 *************************************************************
-Generating : Dimensions
-      File : WIFI_BoardV4.00.GM1
+Generating : Bottom Solder
+      File : WIFI_BoardV4.00.GBS
 
-    Adding Layer      : Dimensions
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : WIFI_BoardV4.00.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D129
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : WIFI_BoardV4.00.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Fabrication
-      File : WIFI_BoardV4.00.GM3
-
-    Adding Layer      : Fabrication
-
-
-Used DCodes :
-    D11
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
     D108
-    D128
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : WIFI_BoardV4.00.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -181,6 +190,18 @@ Used DCodes :
     D104
     D105
     D106
+    D107
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : WIFI_BoardV4.00.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -212,72 +233,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : WIFI_BoardV4.00.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D109
-    D110
-    D112
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
-    D127
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : WIFI_BoardV4.00.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : WIFI_BoardV4.00.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : WIFI_BoardV4.00.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Pad Master
+      File : WIFI_BoardV4.00.GPT
 
     Adding Layer      : Top Layer
 
@@ -319,6 +276,56 @@ Used DCodes :
     D59
     D60
     D61
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : WIFI_BoardV4.00.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : WIFI_BoardV4.00.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D111
+    D112
+    D114
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
 *************************************************************
 
 *************************************************************
@@ -366,8 +373,6 @@ Used DCodes :
     D59
     D60
     D61
-    D107
-    D108
     D109
     D110
     D111
@@ -387,6 +392,9 @@ Used DCodes :
     D125
     D126
     D127
+    D128
+    D129
+    D130
 *************************************************************
 
 *************************************************************
@@ -401,9 +409,9 @@ Generating : Drill Drawing
 Used DCodes :
     D10
     D11
-    D108
-    D130
-    D131
+    D110
+    D133
+    D134
 *************************************************************
 
 *************************************************************
@@ -425,6 +433,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D132
+    D135
 *************************************************************
 
