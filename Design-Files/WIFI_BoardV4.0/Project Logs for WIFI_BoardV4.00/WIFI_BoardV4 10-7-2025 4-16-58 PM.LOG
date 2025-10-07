@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=GND Pin=SW3-4
+Removed Pin From Net: NetName=GND Pin=SW3-5
+Removed Pin From Net: NetName=GND Pin=SW3-C
+Change Component Footprint: Designator=SW3 Old Footprint=PEC11R-4215F-N0024 New Footprint=PEC11R-4215F-S0024
+Change Component Comment : Designator=SW3 Old Comment=PEC11R-4215F-N0024 New Comment=PEC11R-4215F-S0024
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "PEC11R-4215F-N0024"; UniqueID = "\UPLNXFNT" ("\UPLNXFNT")
+Change component parameters (AddParameter): Name = "Built in Switch"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/PEC11R-4215F-S0024-Bourns-datasheet-152588733.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/PEC11R-4215F-S0024-Bourns-datasheet-152588733.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/PEC11R-4215F-S0024-Bourns-datasheet-68303416.pdf?src-supplier=Burklin+Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/PEC11R-4215F-S0024-Bourns-datasheet-68303416.pdf?src-supplier=Burklin+Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/PEC11R-4215F-S0024-Bourns-datasheet-41168452.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/PEC11R-4215F-S0024-Bourns-datasheet-41168452.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/PEC11R-4215F-S0024-Bourns-datasheet-16095859.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/PEC11R-4215F-S0024-Bourns-datasheet-16095859.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com/PEC11R-4215F-S0024-Bourns-datasheet-16722594.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com/PEC11R-4215F-S0024-Bourns-datasheet-16722594.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Bourns-company-36.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Bourns-company-36.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "10mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Detent"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Encoder Type"; Value = "Incremental"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "21.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hole Diameter"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Metal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Encoders"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C143790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "21.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PEC11R-4215F-S0024"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "PCB, Panel, Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Incremental, Quadrature"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=2.3, 10=2.07, 25=1.99, 50=1.91, 100=1.83 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pulses per Revolution"; Value = "24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schedule B"; Value = "8543709655, 8543709655|8543709655, 8543709655|8543709655|8543709655, 8543709655|8543709655|8543709655|8543709655"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "117"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "PC Pins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Mechanical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "12.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=D11(SOD-882 Bi Directional)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/span-style-background-color-ff0-ESD-span-Protection-Devices_LRC-LESD8D3-3CAT5G_C172409.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Protection Device"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C172409"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "LRC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LESD8D3.3CAT5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-882"; VariantName = "[No Variations]"
+Added Component: Designator=R30(Res-0603)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.mouser.com/ds/2/219/RK73G-9863.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.mouser.com/ds/2/219/RK73G-9863.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C362180"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.22, 10=0.118, 50=0.0812, 100=0.0699, 500=0.0513, 1000=0.04545 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RK73G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "249394"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2019-RK73G1JTTD1002FCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D11-1
+Added Pin To Net: NetName=3V3_WIFI Pin=R30-1
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-COM
+Added Pin To Net: NetName=GND Pin=SW3-S1
+Added Pin To Net: NetName=GND Pin=SW3-S2
+Added Pin To Net: NetName=ENC_SW Pin=D11-2
+Added Pin To Net: NetName=ENC_SW Pin=R30-2
+Added Pin To Net: NetName=ENC_SW Pin=SW3-2
+Added Pin To Net: NetName=ENC_SW Pin=U1-30
+Added Net: Name=ENC_SW
+Added Member To Class: ClassName=WiFI_Sheet Member=Component D11 LESD8D3.3CAT5G
+Added Member To Class: ClassName=WiFI_Sheet Member=Component R30 10K
