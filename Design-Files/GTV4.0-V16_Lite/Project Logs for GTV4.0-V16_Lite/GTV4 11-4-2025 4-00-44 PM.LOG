@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SR_BR_SCK Pin=R216-1
+Removed Pin From Net: NetName=SR_BR_MISO Pin=R217-1
+Removed Pin From Net: NetName=SR_BR_MOSI Pin=R218-1
+Removed Pin From Net: NetName=SR_BR_CS Pin=R219-1
+Removed Member From Class: ClassName=Controller_Section Member=R216
+Removed Member From Class: ClassName=Controller_Section Member=R217
+Removed Member From Class: ClassName=Controller_Section Member=R218
+Removed Member From Class: ClassName=Controller_Section Member=R219
+Added Pin To Net: NetName=SR_BR_SCK Pin=U21-19
+Added Pin To Net: NetName=SR_BR_MISO Pin=U21-20
+Added Pin To Net: NetName=SR_BR_MOSI Pin=U21-21
+Added Pin To Net: NetName=SR_BR_CS Pin=U21-22

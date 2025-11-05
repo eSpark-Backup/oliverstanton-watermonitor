@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=SB12 Old Footprint=Solder Bridge New Footprint=SOLDER BRIDGE-1206_
+Change Component Comment : Designator=SB12 Old Comment=Solder Bridge 0603 New Comment=Solder Bridge_1206
+Change component parameters: Designator = "SB12" ("SB12"); Footprint = "Solder Bridge"; UniqueID = "\QWKUZSFK" ("\QWKUZSFK")
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Solder Bridge"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "Solder Bridge_1206"; VariantName = "[No Variations]"
