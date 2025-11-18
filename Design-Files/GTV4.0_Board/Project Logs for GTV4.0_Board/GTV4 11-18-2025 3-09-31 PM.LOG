@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=ANT Pin=J15-1
+Removed Pin From Net: NetName=GND Pin=J15-5
+Change Component Footprint: Designator=J15 Old Footprint=HJ-SMA508_ New Footprint=BWSMA-KE-Z001
+Change Component Comment : Designator=J15 Old Comment=HJ-SMA508 New Comment=BWSMA-KE-Z001
+Change component parameters: Designator = "J15" ("J15"); Footprint = "HJ-SMA508_"; UniqueID = "\HQUMBKCD\OTYOGGPU" ("\HQUMBKCD\OTYOGGPU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C496549.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C496549"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J15-1
+Added Pin To Net: NetName=ANT Pin=J15-5

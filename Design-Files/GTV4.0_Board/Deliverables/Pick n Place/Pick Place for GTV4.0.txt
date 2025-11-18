@@ -5,8 +5,8 @@ D:\eSpark-Consultants\GitHub\OliverStanton-WaterMonitor\Design-Files\GTV4.0_Boar
 File Design Information:
 
 Date:       18/11/25
-Time:       13:36
-Revision:   3192bafff6f950ba6b211310da3625eb31bea0ad
+Time:       15:15
+Revision:   9a12f576ce250bf49605bbdec52f422857a668f9
 Variant:    No variations
 Units used: mm
 
@@ -197,7 +197,7 @@ D69        5.5915mm     60.8096mm    TopLayer 0        5.5915mm   60.8096mm  5.2
 D70        150.8342mm   61.2734mm    TopLayer 270      150.8342mm 61.2734mm  150.8342mm 62.3234mm  
 D71        131.5292mm   27.1206mm    TopLayer 0        131.5292mm 27.1206mm  130.3792mm 27.1206mm  
 J1         113.0764mm   88.8736mm    TopLayer 90       113.0764mm 88.8736mm  115.0264mm 86.3336mm  
-J2         134.0956mm   0.4127mm     TopLayer 0        134.0956mm 0.4127mm   129.0156mm -4.6673mm  
+J2         134.0956mm   -3.5281mm    TopLayer 180      134.0956mm -3.5281mm  139.1756mm 1.5519mm   
 J3         34.9738mm    -3.0734mm    TopLayer 180      34.9738mm  -3.0734mm  37.5138mm  -3.0734mm  
 J4         10.4120mm    -3.0734mm    TopLayer 180      10.4120mm  -3.0734mm  12.9520mm  -3.0734mm  
 J5         63.5820mm    119.1039mm   TopLayer 0        63.5820mm  119.1039mm 61.0420mm  119.1039mm 
@@ -210,7 +210,7 @@ J11        180.5827mm   83.8644mm    TopLayer 270      180.5827mm 83.8644mm  180
 J12        116.4934mm   119.1039mm   TopLayer 0        116.4934mm 119.1039mm 113.9534mm 119.1039mm 
 J13        33.7801mm    57.3457mm    TopLayer 180      33.7801mm  57.3457mm  40.6550mm  55.9658mm  
 J14        108.8734mm   -6.0490mm    TopLayer 270      108.8734mm -6.0490mm  108.8734mm -5.4140mm  
-J15        184.4384mm   104.0892mm   TopLayer 270      184.4384mm 104.0892mm 184.4384mm 104.0892mm 
+J15        184.4384mm   104.0892mm   TopLayer 270      184.4384mm 104.0892mm 181.8884mm 106.6392mm 
 J16        108.8734mm   -3.1750mm    TopLayer 270      108.8734mm -3.1750mm  108.8734mm -2.5400mm  
 J17        -0.9757mm    65.2485mm    TopLayer 270      -0.9757mm  65.2485mm  0.4043mm   72.1234mm  
 J18        180.5827mm   37.5412mm    TopLayer 270      180.5827mm 42.6212mm  180.5827mm 42.6212mm  
