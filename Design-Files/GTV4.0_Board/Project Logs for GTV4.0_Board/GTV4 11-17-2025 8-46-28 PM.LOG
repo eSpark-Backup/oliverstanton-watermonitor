@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=SW3 Old Footprint=TL3300CF160Q. New Footprint=FSM6JSMATR
+Change Component Comment : Designator=SW3 Old Comment=TL3300CF160Q New Comment=FSM6JSMATR
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "TL3300CF160Q."; UniqueID = "\CVYAGPDT\ONXNXIBQ" ("\CVYAGPDT\ONXNXIBQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/7097/1486952-7097325.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/7097/1486952-7097325.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/1530/1714712-1530976.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/1530/1714712-1530976.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/15184/getdatasheetpartid-167889-15184443.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/15184/getdatasheetpartid-167889-15184443.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/8082/eng-cs-1308111-1-switches-core-program-catalog-0308-8082682.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/8082/eng-cs-1308111-1-switches-core-program-catalog-0308-8082682.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Switches"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C6558197"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Alcoswitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FSM6JSMATR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "2NUMBER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "5897YesNo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "735"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rs"; VariantName = "[No Variations]"
